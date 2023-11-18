@@ -1,0 +1,84 @@
+[
+    {
+        "originVersion": "1.1.1",
+        "Version": "1.1.2",
+        "msg": [
+            "[优化] 修复调试过程中的一些问题"
+        ],
+        "buildTime": "20221212",
+        "buildMd5": "421f9b7e882cb071b8884ff6b7718924d6efc8d5"
+    },
+    {
+        "originVersion": "1.1.2",
+        "Version": "1.1.3",
+        "msg": [
+            "[优化] 修复制冷功率问题"
+        ],
+        "buildTime": "20230105",
+        "buildMd5": "8066be1a64a3e7ea3ddfd9a57325ab0e969bc126"
+    },
+    {
+        "originVersion": "1.1.4",
+        "Version": "1.1.4",
+        "msg": [
+            "[bug修复] 部分部分IO上传事件无效的问题"
+        ],
+        "buildTime": "20230111",
+        "buildMd5": "41da5639620248d1b439142e5fbfb0263e289fe6"
+    },
+    {
+        "originVersion": "1.1.5",
+        "Version": "1.1.5",
+        "msg": [
+            "[bug修复] 采值驱动bug",
+            "[优化] 采值算法优化",
+            "[bug修复] 采值结束后指示灯不正常熄灭的问题",
+            "[bug修复] 采值无法正常开始的问题（需要软件适配）"
+        ],
+        "buildTime": "20230114",
+        "buildMd5": "ed565ff933c5ef88a36e5baa0d761ff46807fb33"
+    },
+    {
+        "originVersion": "1.1.6",
+        "Version": "1.1.6",
+        "msg": [
+            "[优化] 修复温控电路缺少外部上拉电阻导致失控问题"
+        ],
+        "buildTime": "20230203",
+        "buildMd5": "6f2bcdf3c877226a5263fafc5f848b1d9e7cba39"
+    },
+    {
+        "originVersion": "1.1.7",
+        "Version": "1.1.7",
+        "msg": [
+            "[优化] 降低采值次数"
+        ],
+        "buildTime": "20230208",
+        "buildMd5": "3064df8aa78e6ac744e09030a6e116cf2e4c099a"
+    },
+    {
+        "originVersion": "1.1.7",
+        "Version": "1.1.7",
+        "msg": [],
+        "buildTime": "20230208",
+        "buildMd5": "5ff10cc9c833b8ee69965a022ae00b36febc27b0"
+    },
+    {
+        "originVersion": "1.1.8",
+        "Version": "1.1.8",
+        "msg": [
+            "[优化] 算法优化"
+        ],
+        "buildTime": "20230220",
+        "buildMd5": "ac73562c6aa8a425efb89e7ba52f55dacb88ac53"
+    },
+    {
+        "originVersion": "1.1.9",
+        "Version": "1.1.9",
+        "msg": [
+            "[优化] 降低采值次数以优化采值时间问题"
+        ],
+        "buildTime": "20230303",
+        "buildMd5": "95d75b6603e76bd6cfe48ffd8f30323827d3ea24"
+    }
+]

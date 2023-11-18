@@ -1,0 +1,12 @@
+.\build\os_implement.o: ..\..\..\..\kernel\F4_UCOSII\os_implement.c
+.\build\os_implement.o: ..\..\..\..\kernel\os_implement.h
+.\build\os_implement.o: ..\..\..\..\kernel\F4_UCOSII\ucos_ii.h
+.\build\os_implement.o: ..\..\..\..\kernel\F4_UCOSII\app_cfg.h
+.\build\os_implement.o: ..\..\..\..\kernel\F4_UCOSII\cpu.h
+.\build\os_implement.o: ..\..\..\..\kernel\F4_UCOSII\cpu_def.h
+.\build\os_implement.o: ..\..\..\..\kernel\F4_UCOSII\cpu_cfg.h
+.\build\os_implement.o: ..\..\..\..\kernel\F4_UCOSII\os_cfg.h
+.\build\os_implement.o: ..\..\..\..\kernel\F4_UCOSII\os_cpu.h
+.\build\os_implement.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\string.h
+.\build\os_implement.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdio.h
+.\build\os_implement.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdarg.h

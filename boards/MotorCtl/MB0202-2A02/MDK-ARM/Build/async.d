@@ -1,0 +1,16 @@
+.\build\async.o: ..\..\..\..\tools\async.c
+.\build\async.o: ..\..\..\..\tools\async.h
+.\build\async.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdio.h
+.\build\async.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h
+.\build\async.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdbool.h
+.\build\async.o: ..\..\..\..\kernel\F4_UCOSII\ucos_ii.h
+.\build\async.o: ..\..\..\..\kernel\F4_UCOSII\app_cfg.h
+.\build\async.o: ..\..\..\..\kernel\F4_UCOSII\cpu.h
+.\build\async.o: ..\..\..\..\kernel\F4_UCOSII\cpu_def.h
+.\build\async.o: ..\..\..\..\kernel\F4_UCOSII\cpu_cfg.h
+.\build\async.o: ..\..\..\..\kernel\F4_UCOSII\os_cfg.h
+.\build\async.o: ..\..\..\..\kernel\F4_UCOSII\os_cpu.h
+.\build\async.o: ..\..\..\..\tools\data_struct.h
+.\build\async.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\string.h
+.\build\async.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdlib.h
+.\build\async.o: ..\..\..\..\kernel\os_implement.h

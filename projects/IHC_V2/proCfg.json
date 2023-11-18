@@ -1,0 +1,33 @@
+{
+    "proName": "IHC",
+    "proPath": "IHC_V2",
+    "version": "2.1.16",
+    "hardwareVersion": "1",
+    "boards": [
+        [
+            "1",
+            "\\PowerCtl\\MB0101A01",
+            "MB0101A01"
+        ],
+        [
+            "2",
+            "\\MotorCtl\\MB0101A02",
+            "MB0101A02"
+        ],
+        [
+            "3",
+            "\\MotorCtl\\MB0101A03",
+            "MB0101A03"
+        ],
+        [
+            "4",
+            "\\MotorCtl\\MB0101A04",
+            "MB0101A04"
+        ],
+        [
+            "5",
+            "\\MotorCtl\\MB0101A05",
+            "MB0101A05"
+        ]
+    ]
+}

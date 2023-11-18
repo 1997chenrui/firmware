@@ -1,0 +1,76 @@
+{
+    "versions": [
+        {
+            "itemname": "FluidCtl",
+            "projectname": "1202",
+            "first": 2,
+            "second": 2,
+            "third": 0,
+            "message": "初建工程"
+        },
+        {
+            "itemname": "FluidCtl",
+            "projectname": "1202",
+            "first": 2,
+            "second": 2,
+            "third": 1,
+            "message": "工程新建"
+        },
+        {
+            "itemname": "FluidCtl",
+            "projectname": "1202",
+            "first": 2,
+            "second": 2,
+            "third": 2,
+            "message": "新设备调试"
+        },
+        {
+            "itemname": "FluidCtl",
+            "projectname": "1202",
+            "first": 2,
+            "second": 2,
+            "third": 3,
+            "message": "添加motormoveNotify接口"
+        },
+        {
+            "itemname": "FluidCtl",
+            "projectname": "1202",
+            "first": 2,
+            "second": 2,
+            "third": 4,
+            "message": "修改浮子开关状态"
+        },
+        {
+            "itemname": "FluidCtl",
+            "projectname": "1202",
+            "first": 2,
+            "second": 2,
+            "third": 5,
+            "message": "修改浮子开关状态"
+        },
+        {
+            "itemname": "FluidCtl",
+            "projectname": "1202",
+            "first": 2,
+            "second": 2,
+            "third": 6,
+            "message": "同上"
+        },
+        {
+            "itemname": "FluidCtl",
+            "projectname": "1202",
+            "first": 2,
+            "second": 2,
+            "third": 7,
+            "message": "延时2s再启动"
+        },
+        {
+            "itemname": "FluidCtl1202",
+            "projectname": "1",
+            "first": 2,
+            "second": 2,
+            "third": 8,
+            "message": "将总线初始化至于最后"
+        }
+    ]
+}

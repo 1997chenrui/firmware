@@ -1,0 +1,229 @@
+[
+    {
+        "version": "2.3.2",
+        "msg": [
+            "[优化] 适配RGB指示灯",
+            "[优化] 调整试剂臂Z向零位距离"
+        ],
+        "buildTime": "",
+        "buildMd5": ""
+    },
+    {
+        "originVersion": "2.3.3",
+        "Version": "2.3.3",
+        "msg": [
+            "[优化] 优化总线"
+        ],
+        "buildTime": "20221109",
+        "buildMd5": "101c346b85d24f38c1b23be7db822703739604b9"
+    },
+    {
+        "originVersion": "2.3.3",
+        "Version": "2.3.3",
+        "msg": [],
+        "buildTime": "20221109",
+        "buildMd5": "101c346b85d24f38c1b23be7db822703739604b9"
+    },
+    {
+        "originVersion": "2.3.3",
+        "Version": "2.3.3",
+        "msg": [
+            "[新增] 新增光源控制",
+            "[新增] 新增光强控制",
+            "[新增] 新增11路光强校准"
+        ],
+        "buildTime": "20221109",
+        "buildMd5": "101c346b85d24f38c1b23be7db822703739604b9"
+    },
+    {
+        "originVersion": "2.3.4",
+        "Version": "2.3.4",
+        "msg": [
+            "[新增] 优化11通道信号采集"
+        ],
+        "buildTime": "20221109",
+        "buildMd5": "101c346b85d24f38c1b23be7db822703739604b9"
+    },
+    {
+        "originVersion": "2.3.5",
+        "Version": "2.3.5",
+        "msg": [
+            "[优化] 11路光源更新初始值校准",
+            "[优化] 光源调节校准"
+        ],
+        "buildTime": "20221117",
+        "buildMd5": "624786d22ebd52c21655070ac1367a94d421c956"
+    },
+    {
+        "originVersion": "2.3.6",
+        "Version": "2.3.6",
+        "msg": [
+            "[优化] 11路光源设置优化"
+        ],
+        "buildTime": "20221117",
+        "buildMd5": "21789fce6fb23dbc782a8bf84b212edc4153393b"
+    },
+    {
+        "originVersion": "2.3.7",
+        "Version": "2.3.7",
+        "msg": [
+            "[优化] 优化光源校准"
+        ],
+        "buildTime": "20221118",
+        "buildMd5": "21789fce6fb23dbc782a8bf84b212edc4153393b"
+    },
+    {
+        "originVersion": "2.3.8",
+        "Version": "2.3.8",
+        "msg": [
+            "[优化] 优化11路采值"
+        ],
+        "buildTime": "20221122",
+        "buildMd5": "b09bbe227f56bdb1ceaeb3440a0e81d35dd2e8bd"
+    },
+    {
+        "originVersion": "2.3.9",
+        "Version": "2.3.9",
+        "msg": [
+            "[优化] 优化11路采值"
+        ],
+        "buildTime": "20221123",
+        "buildMd5": "32f5e8622ffc51e7aabb34ffc86889351fbb913a"
+    },
+    {
+        "originVersion": "2.3.10",
+        "Version": "2.3.10",
+        "msg": [
+            "[bug修复] 修复抓手混匀"
+        ],
+        "buildTime": "20221124",
+        "buildMd5": "2a1fad696fbff849463933f3ed6c7523f20e0497"
+    },
+    {
+        "originVersion": "2.3.11",
+        "Version": "2.3.11",
+        "msg": [
+            "[优化] 405nm波长光，采值10次/s"
+        ],
+        "buildTime": "20221212",
+        "buildMd5": "57ed743ca5c8c5e58e0d4842ba0f511a77a33fe2"
+    },
+    {
+        "originVersion": "2.3.12",
+        "Version": "2.3.12",
+        "msg": [
+            "[优化] 光源校准",
+            "[优化] 温度读取校准"
+        ],
+        "buildTime": "20221215",
+        "buildMd5": "5f454f5bc37d93b4b51e274b9ae8aeb9a18eafaf"
+    },
+    {
+        "originVersion": "2.3.13",
+        "Version": "2.3.13",
+        "msg": [
+            "[优化] 试剂针温度读取校准"
+        ],
+        "buildTime": "20221219",
+        "buildMd5": "5f454f5bc37d93b4b51e274b9ae8aeb9a18eafaf"
+    },
+    {
+        "originVersion": "2.3.14",
+        "Version": "2.3.14",
+        "msg": [
+            "[优化] 温度传感器读取"
+        ],
+        "buildTime": "20230110",
+        "buildMd5": "2d2ef2c46a297a483ddc669c4f2530a991b4c256"
+    },
+    {
+        "originVersion": "2.3.15",
+        "Version": "2.3.15",
+        "msg": [
+            "[优化] 探液IO扫描周期5ms改为2ms"
+        ],
+        "buildTime": "20230113",
+        "buildMd5": "55deb8e5098634ad77c407645f9355a63f3b5196"
+    },
+    {
+        "originVersion": "2.3.16",
+        "Version": "2.3.16",
+        "msg": [
+            "[新增] 新增探液灵敏度切换接口"
+        ],
+        "buildTime": "20230322",
+        "buildMd5": "3632b8057d93c4ea74bb8799bb1fc1f9360f9d30"
+    },
+    {
+        "originVersion": "2.3.16",
+        "Version": "2.3.16",
+        "msg": [
+            "[新增] 液面探测灵敏度切换接口"
+        ],
+        "buildTime": "20230323",
+        "buildMd5": "3632b8057d93c4ea74bb8799bb1fc1f9360f9d30"
+    },
+    {
+        "originVersion": "2.3.17",
+        "Version": "2.3.17",
+        "msg": [
+            "[优化] 探液前关闭温控，探液后打开温控"
+        ],
+        "buildTime": "20230512",
+        "buildMd5": "7e492d90f038f483d631f95c116fd06bcbae7c34"
+    },
+    {
+        "originVersion": "2.3.18",
+        "Version": "2.3.18",
+        "msg": [
+            "[优化] 样本，试剂区探液灵敏度温控控制"
+        ],
+        "buildTime": "20230526",
+        "buildMd5": "bbfbfa52561dfc346b0b160a261752d2d4dbb0da"
+    },
+    {
+        "originVersion": "2.3.19",
+        "Version": "2.3.19",
+        "msg": [
+            "[优化] 优化液面探测灵敏度调整"
+        ],
+        "buildTime": "20230529",
+        "buildMd5": "bbfbfa52561dfc346b0b160a261752d2d4dbb0da"
+    },
+    {
+        "originVersion": "2.3.20",
+        "Version": "2.3.20",
+        "msg": [
+            "[新增] 光源采值新增卡尔曼滤波"
+        ],
+        "buildTime": "20230908",
+        "buildMd5": "7cfd7ca47b2213043622e2ca3b6463b6754e7201"
+    },
+    {
+        "originVersion": "2.3.21",
+        "Version": "2.3.21",
+        "msg": [
+            "[bug修复] 修正IO状态"
+        ],
+        "buildTime": "20230908",
+        "buildMd5": "7cfd7ca47b2213043622e2ca3b6463b6754e7201"
+    },
+    {
+        "originVersion": "2.3.22",
+        "Version": "2.3.22",
+        "msg": [
+            "[优化] GW1000柱塞泵关闭5160驱动控制"
+        ],
+        "buildTime": "20230914",
+        "buildMd5": "7cfd7ca47b2213043622e2ca3b6463b6754e7201"
+    },
+    {
+        "originVersion": "2.3.23",
+        "Version": "2.3.23",
+        "msg": [
+            "[优化] 取消卡尔曼滤波消除对FIB影响"
+        ],
+        "buildTime": "20230914",
+        "buildMd5": "7cfd7ca47b2213043622e2ca3b6463b6754e7201"
+    }
+]

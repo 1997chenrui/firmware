@@ -1,0 +1,15 @@
+.\route\data_struct.o: ..\..\..\..\tools\data_struct.c
+.\route\data_struct.o: ..\..\..\..\tools\data_struct.h
+.\route\data_struct.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\string.h
+.\route\data_struct.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h
+.\route\data_struct.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdlib.h
+.\route\data_struct.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdbool.h
+.\route\data_struct.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdio.h
+.\route\data_struct.o: ..\..\..\..\kernel\os_implement.h
+.\route\data_struct.o: ..\..\..\..\kernel\F4_UCOSII\ucos_ii.h
+.\route\data_struct.o: ..\..\..\..\kernel\F4_UCOSII\app_cfg.h
+.\route\data_struct.o: ..\..\..\..\kernel\F4_UCOSII\cpu.h
+.\route\data_struct.o: ..\..\..\..\kernel\F4_UCOSII\cpu_def.h
+.\route\data_struct.o: ..\..\..\..\kernel\F4_UCOSII\cpu_cfg.h
+.\route\data_struct.o: ..\..\..\..\kernel\F4_UCOSII\os_cfg.h
+.\route\data_struct.o: ..\..\..\..\kernel\F4_UCOSII\os_cpu.h

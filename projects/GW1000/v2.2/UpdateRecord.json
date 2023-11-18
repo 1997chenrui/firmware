@@ -1,0 +1,238 @@
+[
+    {
+        "version":"2.2.5",
+        "binmap":{
+            "gw1000.1-1-2.2.5":"Desinpro-PowerCtl-0901-v2.2.5",
+            "gw1000.2-1-2.2.5":"Desinpro-SignalGet-1102-v2.2.2",
+            "gw1000.3-1-2.2.5":"Desinpro-LampCtl-0602-v2.2.3",
+            "gw1000.4-1-2.2.5":"Desinpro-TempCtl-1101-v2.2.2",
+            "gw1000.5-1-2.2.5":"Desinpro-FluidCtl-1202-v2.2.2",
+            "gw1000.6-1-2.2.5":"Desinpro-MotorCtl-4902-v2.2.4",
+            "gw1000.7-1-2.2.5":"Desinpro-MotorCtl-5002-v2.2.2"
+        },
+        "msg":[
+            "[功能新增] 电机控制",
+            "[功能新增] 温度控制",
+            "[功能新增] 传感器读取",
+            "[功能新增] LED控制",
+            "[功能新增] 混匀功能控制",
+            "[功能新增] 通讯实现"
+        ]
+    },
+    {
+        "version":"2.2.6",
+        "binmap":{
+            "gw1000.1-1-2.2.6":"Desinpro-PowerCtl-0901-v2.2.6",
+            "gw1000.2-1-2.2.6":"Desinpro-SignalGet-1102-v2.2.3",
+            "gw1000.3-1-2.2.6":"Desinpro-LampCtl-0602-v2.2.4",
+            "gw1000.4-1-2.2.6":"Desinpro-TempCtl-1101-v2.2.3",
+            "gw1000.5-1-2.2.6":"Desinpro-FluidCtl-1202-v2.2.4",
+            "gw1000.6-1-2.2.6":"Desinpro-MotorCtl-4902-v2.2.5",
+            "gw1000.7-1-2.2.6":"Desinpro-MotorCtl-5002-v2.2.3"
+        },
+        "msg":[
+            "[功能新增] 优化电机控制"
+        ]
+    },
+    {
+        "version":"2.2.7",
+        "binmap":{
+            "gw1000.1-1-2.2.7":"Desinpro-PowerCtl-0901-v2.2.7",
+            "gw1000.2-1-2.2.7":"Desinpro-SignalGet-1102-v2.2.3",
+            "gw1000.3-1-2.2.7":"Desinpro-LampCtl-0602-v2.2.4",
+            "gw1000.4-1-2.2.7":"Desinpro-TempCtl-1101-v2.2.3",
+            "gw1000.5-1-2.2.7":"Desinpro-FluidCtl-1202-v2.2.4",
+            "gw1000.6-1-2.2.7":"Desinpro-MotorCtl-4902-v2.2.5",
+            "gw1000.7-1-2.2.7":"Desinpro-MotorCtl-5002-v2.2.3"
+        },
+        "msg":[
+            "[功能新增] 新增电源控制功能"
+        ]
+    },
+    {
+        "version":"2.2.8",
+        "binmap":{
+            "gw1000.1-1-2.2.8":"Desinpro-PowerCtl-0901-v2.2.7",
+            "gw1000.2-1-2.2.8":"Desinpro-SignalGet-1102-v2.2.3",
+            "gw1000.3-1-2.2.8":"Desinpro-LampCtl-0602-v2.2.4",
+            "gw1000.4-1-2.2.8":"Desinpro-TempCtl-1101-v2.2.4",
+            "gw1000.5-1-2.2.8":"Desinpro-FluidCtl-1202-v2.2.4",
+            "gw1000.6-1-2.2.8":"Desinpro-MotorCtl-4902-v2.2.6",
+            "gw1000.7-1-2.2.8":"Desinpro-MotorCtl-5002-v2.2.3"
+        },
+        "msg":[
+            "[功能调整] 进样电机运行电流调整为10",
+            "[功能调整] 试剂样本臂复位零位距离调整"
+        ]
+    },
+    {
+        "version":"2.2.9",
+        "binmap":{
+            "gw1000.1-1-2.2.9":"Desinpro-PowerCtl-0901-v2.2.10",
+            "gw1000.2-1-2.2.9":"Desinpro-SignalGet-1102-v2.2.5",
+            "gw1000.3-1-2.2.9":"Desinpro-LampCtl-0602-v2.2.4",
+            "gw1000.4-1-2.2.9":"Desinpro-TempCtl-1101-v2.2.4",
+            "gw1000.5-1-2.2.9":"Desinpro-FluidCtl-1202-v2.2.4",
+            "gw1000.6-1-2.2.9":"Desinpro-MotorCtl-4902-v2.2.6",
+            "gw1000.7-1-2.2.9":"Desinpro-MotorCtl-5002-v2.2.3"
+        },
+        "msg":[
+            "[Bug修复] 优化电源管理",
+            "[Bug修复] 启用检测板温控"
+        ]
+    },
+    {
+        "version":"2.2.10",
+        "binmap":{
+            "gw1000.1-1-2.2.10":"Desinpro-PowerCtl-0901-v2.2.10",
+            "gw1000.2-1-2.2.10":"Desinpro-SignalGet-1102-v2.2.7",
+            "gw1000.3-1-2.2.10":"Desinpro-LampCtl-0602-v2.2.4",
+            "gw1000.4-1-2.2.10":"Desinpro-TempCtl-1101-v2.2.4",
+            "gw1000.5-1-2.2.10":"Desinpro-FluidCtl-1202-v2.2.4",
+            "gw1000.6-1-2.2.10":"Desinpro-MotorCtl-4902-v2.2.8",
+            "gw1000.7-1-2.2.10":"Desinpro-MotorCtl-5002-v2.2.3"
+        },
+        "msg":[
+            "[Bug修复] 启用检测板温控",
+            "[功能调整] 调整温度限制范围"
+        ]
+    },
+    {
+        "version":"2.2.11",
+        "binmap":{
+            "gw1000.1-1-2.2.11":"Desinpro-PowerCtl-0901-v2.2.10",
+            "gw1000.2-1-2.2.11":"Desinpro-SignalGet-1102-v2.2.7",
+            "gw1000.3-1-2.2.11":"Desinpro-LampCtl-0602-v2.2.4",
+            "gw1000.4-1-2.2.11":"Desinpro-TempCtl-1101-v2.2.4",
+            "gw1000.5-1-2.2.11":"Desinpro-FluidCtl-1202-v2.2.4",
+            "gw1000.6-1-2.2.11":"Desinpro-MotorCtl-4902-v2.2.9",
+            "gw1000.7-1-2.2.11":"Desinpro-MotorCtl-5002-v2.2.5"
+        },
+        "msg":[
+            "[功能调整] 更新抓手震荡功率的可调范围",
+            "[功能调整] 试剂针温度上限修改为70℃"
+        ]
+    },
+    {
+        "version":"2.2.13",
+        "binmap":{
+            "gw1000.1-1-2.2.13":"Desinpro-PowerCtl-0901-v2.2.10",
+            "gw1000.2-1-2.2.13":"Desinpro-SignalGet-1102-v2.2.7",
+            "gw1000.3-1-2.2.13":"Desinpro-LampCtl-0602-v2.2.4",
+            "gw1000.4-1-2.2.13":"Desinpro-TempCtl-1101-v2.2.4",
+            "gw1000.5-1-2.2.13":"Desinpro-FluidCtl-1202-v2.2.6",
+            "gw1000.6-1-2.2.13":"Desinpro-MotorCtl-4902-v2.2.9",
+            "gw1000.7-1-2.2.13":"Desinpro-MotorCtl-5002-v2.2.5"
+        },
+        "msg":[
+            "[功能调整] 修改浮子开关触发状态"
+        ]
+    },
+    {
+        "version":"2.2.16",
+        "binmap":{
+            "gw1000.1-1-2.2.16":"Desinpro-PowerCtl-0901-v2.2.14",
+            "gw1000.2-1-2.2.16":"Desinpro-SignalGet-1102-v2.2.7",
+            "gw1000.3-1-2.2.16":"Desinpro-LampCtl-0602-v2.2.4",
+            "gw1000.4-1-2.2.16":"Desinpro-TempCtl-1101-v2.2.4",
+            "gw1000.5-1-2.2.16":"Desinpro-FluidCtl-1202-v2.2.6",
+            "gw1000.6-1-2.2.16":"Desinpro-MotorCtl-4902-v2.2.9",
+            "gw1000.7-1-2.2.16":"Desinpro-MotorCtl-5002-v2.2.5"
+        },
+        "msg":[
+            "[功能调整] 调整串口使能顺序"
+        ]
+    },
+    {
+        "version":"2.2.17",
+        "binmap":{
+            "gw1000.1-1-2.2.17":"Desinpro-PowerCtl-0901-v2.2.14",
+            "gw1000.2-1-2.2.17":"Desinpro-SignalGet-1102-v2.2.8",
+            "gw1000.3-1-2.2.17":"Desinpro-LampCtl-0602-v2.2.6",
+            "gw1000.4-1-2.2.17":"Desinpro-TempCtl-1101-v2.2.5",
+            "gw1000.5-1-2.2.17":"Desinpro-FluidCtl-1202-v2.2.7",
+            "gw1000.6-1-2.2.17":"Desinpro-MotorCtl-4902-v2.2.10",
+            "gw1000.7-1-2.2.17":"Desinpro-MotorCtl-5002-v2.2.6"
+        },
+        "msg":[
+            "[功能调整] 非路由板延时2s启动"
+        ]
+    },
+    {
+        "version":"2.2.18",
+        "binmap":{
+            "gw1000.1-1-2.2.18":"Desinpro-PowerCtl-0901-v2.2.15",
+            "gw1000.2-1-2.2.18":"Desinpro-SignalGet-1102-v2.2.9",
+            "gw1000.3-1-2.2.18":"Desinpro-LampCtl-0602-v2.2.6",
+            "gw1000.4-1-2.2.18":"Desinpro-TempCtl-1101-v2.2.6",
+            "gw1000.5-1-2.2.18":"Desinpro-FluidCtl-1202-v2.2.8",
+            "gw1000.6-1-2.2.18":"Desinpro-MotorCtl-4902-v2.2.11",
+            "gw1000.7-1-2.2.18":"Desinpro-MotorCtl-5002-v2.2.7"
+        },
+        "msg":[
+            "[功能调整] 屏蔽显示屏开机对通信口的干扰",
+            "[功能调整] 调整通信初始化顺序"
+        ]
+    },
+    {
+        "version":"2.2.19",
+        "binmap":{
+            "gw1000.1-1-2.2.19":"Desinpro-PowerCtl-0901-v2.2.16",
+            "gw1000.2-1-2.2.19":"Desinpro-SignalGet-1102-v2.2.9",
+            "gw1000.3-1-2.2.19":"Desinpro-LampCtl-0602-v2.2.6",
+            "gw1000.4-1-2.2.19":"Desinpro-TempCtl-1101-v2.2.6",
+            "gw1000.5-1-2.2.19":"Desinpro-FluidCtl-1202-v2.2.8",
+            "gw1000.6-1-2.2.19":"Desinpro-MotorCtl-4902-v2.2.11",
+            "gw1000.7-1-2.2.19":"Desinpro-MotorCtl-5002-v2.2.7"
+        },
+        "msg":[
+            "[Bug修复] 修复uart上传事件，id号一直为0bug"
+        ]
+    },
+    {
+        "version":"2.2.20",
+        "binmap":{
+            "gw1000.1-1-2.2.20":"Desinpro-PowerCtl-0901-v2.2.16",
+            "gw1000.2-1-2.2.20":"Desinpro-SignalGet-1102-v2.2.9",
+            "gw1000.3-1-2.2.20":"Desinpro-LampCtl-0602-v2.2.6",
+            "gw1000.4-1-2.2.20":"Desinpro-TempCtl-1101-v2.2.6",
+            "gw1000.5-1-2.2.20":"Desinpro-FluidCtl-1202-v2.2.8",
+            "gw1000.6-1-2.2.20":"Desinpro-MotorCtl-4902-v2.2.11",
+            "gw1000.7-1-2.2.20":"Desinpro-MotorCtl-5002-1-v2.2.8"
+        },
+        "msg":[
+            "[功能调整] 修改抓手混匀放杯指令"
+        ]
+    },
+    {
+        "version":"2.2.21",
+        "binmap":{
+            "gw1000.1-1-2.2.21":"Desinpro-PowerCtl-0901-v2.2.16",
+            "gw1000.2-1-2.2.21":"Desinpro-SignalGet-1102-v2.2.9",
+            "gw1000.3-1-2.2.21":"Desinpro-LampCtl-0602-v2.2.6",
+            "gw1000.4-1-2.2.21":"Desinpro-TempCtl-1101-v2.2.6",
+            "gw1000.5-1-2.2.21":"Desinpro-FluidCtl-1202-v2.2.8",
+            "gw1000.6-1-2.2.21":"Desinpro-MotorCtl-4902-v2.2.11",
+            "gw1000.7-1-2.2.21":"Desinpro-MotorCtl-5002-1-v2.2.9"
+        },
+        "msg":[
+            "[功能调整] 修复抓手混匀bug"
+        ]
+    },
+    {
+        "version":"2.2.22",
+        "binmap":{
+            "gw1000.1-1-2.2.22":"Desinpro-PowerCtl-0901-v2.2.16",
+            "gw1000.2-1-2.2.22":"Desinpro-SignalGet-1102-v2.2.9",
+            "gw1000.3-1-2.2.22":"Desinpro-LampCtl-0602-v2.2.6",
+            "gw1000.4-1-2.2.22":"Desinpro-TempCtl-1101-v2.2.7",
+            "gw1000.5-1-2.2.22":"Desinpro-FluidCtl-1202-v2.2.8",
+            "gw1000.6-1-2.2.22":"Desinpro-MotorCtl-4902-v2.2.12",
+            "gw1000.7-1-2.2.22":"Desinpro-MotorCtl-5002-1-v2.2.9"
+        },
+        "msg":[
+            "[功能调整] 适配RGB指示灯",
+            "[功能调整] 调整试剂臂Z向零位距离"
+        ]
+    }
+]

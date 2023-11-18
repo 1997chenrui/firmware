@@ -1,0 +1,138 @@
+T1F1C 000:159.927   SEGGER J-Link V7.88b Log File
+T1F1C 000:170.354   DLL Compiled: May 10 2023 14:08:13
+T1F1C 000:170.380   Logging started @ 2023-05-12 05:27
+T1F1C 000:170.406 - 170.418ms
+T1F1C 000:170.438 JLINK_SetWarnOutHandler(...)
+T1F1C 000:170.464 - 0.038ms
+T1F1C 000:170.489 JLINK_OpenEx(...)
+T1F1C 000:172.596   Firmware: J-Link OB-S124 compiled Dec  3 2019 17:32:29
+T1F1C 000:173.247   Firmware: J-Link OB-S124 compiled Dec  3 2019 17:32:29
+T1F1C 000:215.080   Hardware: V1.00
+T1F1C 000:215.182   S/N: 831004110
+T1F1C 000:215.221   OEM: SEGGER
+T1F1C 000:215.258   Feature(s): None
+T1F1C 000:217.730   TELNET listener socket opened on port 19021
+T1F1C 000:218.053   WEBSRV WEBSRV_Init(): Starting webserver thread(s)
+T1F1C 000:218.342   WEBSRV Webserver running on local port 19080
+T1F1C 000:228.610 - 58.190ms returns "O.K."
+T1F1C 000:228.727 JLINK_GetEmuCaps()
+T1F1C 000:228.764 - 0.055ms returns 0xB8EA5A33
+T1F1C 000:228.809 JLINK_TIF_GetAvailable(...)
+T1F1C 000:229.217 - 0.445ms
+T1F1C 000:229.278 JLINK_SetErrorOutHandler(...)
+T1F1C 000:229.305 - 0.040ms
+T1F1C 000:229.356 JLINK_ExecCommand("ProjectFile = "C:\Users\huadaoshun\Desktop\MCU\huadaoshun\firmware\boards\ServoMotor\MotorCtl-30-03-1.0-SF\MDK-ARM\JLinkSettings.ini"", ...). 
+T1F1C 000:243.519   Ref file found at: C:\MCU\Keil\ARM\Segger\JLinkDevices.ref
+T1F1C 000:243.924   REF file references invalid XML file: C:\Program Files\SEGGER\JLink\JLinkDevices.xml
+T1F1C 000:244.521 - 15.186ms returns 0x00
+T1F1C 000:244.581 JLINK_ExecCommand("Device = STM32F407VE", ...). 
+T1F1C 000:244.937   Looking for J-Link GUI Server exe at: C:\MCU\Keil\ARM\Segger\JLinkGUIServer.exe
+T1F1C 000:245.170   Looking for J-Link GUI Server exe at: C:\Program Files\SEGGER\JLink\JLinkGUIServer.exe
+T1F1C 000:245.275   Forking J-Link GUI Server: C:\Program Files\SEGGER\JLink\JLinkGUIServer.exe
+T1F1C 000:308.750   J-Link GUI Server info: "J-Link GUI server V7.88b "
+T1F1C 074:451.009   The connected J-Link (S/N 831004110) has been designed to work with devices made by Renesas only.
+Debugging the selected device STM32F407VE is not supported by this J-Link.
+
+To program and debug the target device, please consider purchasing a full J-Link.
+More information: https://www.segger.com/jlink-debug-probes.html
+T1F1C 074:451.352   Device "STM32F407VE" selected.
+T1F1C 074:452.037 - 74207.447ms returns 0x00
+T1F1C 074:452.084 JLINK_ExecCommand("DisableConnectionTimeout", ...). 
+T1F1C 074:452.115 - 0.014ms returns 0x01
+T1F1C 074:452.143 JLINK_GetHardwareVersion()
+T1F1C 074:452.169 - 0.038ms returns 10000
+T1F1C 074:452.199 JLINK_GetDLLVersion()
+T1F1C 074:452.225 - 0.038ms returns 78802
+T1F1C 074:452.252 JLINK_GetOEMString(...)
+T1F1C 074:452.289 JLINK_GetFirmwareString(...)
+T1F1C 074:452.323 - 0.066ms
+T1F1C 074:452.382 JLINK_GetDLLVersion()
+T1F1C 074:452.416 - 0.051ms returns 78802
+T1F1C 074:452.454 JLINK_GetCompileDateTime()
+T1F1C 074:452.488 - 0.051ms
+T1F1C 074:453.284 JLINK_GetFirmwareString(...)
+T1F1C 074:453.351 - 0.083ms
+T1F1C 074:453.395 JLINK_GetHardwareVersion()
+T1F1C 074:453.420 - 0.107ms returns 10000
+T1F1C 074:453.524 JLINK_GetSN()
+T1F1C 074:453.552 - 0.040ms returns 831004110
+T1F1C 074:453.578 JLINK_GetOEMString(...)
+T1F1C 074:453.611 JLINK_TIF_Select(JLINKARM_TIF_SWD)
+T1F1C 074:455.417 - 1.836ms returns 0x00
+T1F1C 074:455.469 JLINK_HasError()
+T1F1C 074:455.504 JLINK_SetSpeed(5000)
+T1F1C 074:455.817 - 0.341ms
+T1F1C 074:457.408 JLINK_HasError()
+T1F1C 074:457.470 JLINK_SetResetType(JLINKARM_RESET_TYPE_NORMAL)
+T1F1C 074:457.501 - 0.043ms returns JLINKARM_RESET_TYPE_NORMAL
+T1F1C 074:457.527 JLINK_Reset()
+T1F1C 074:457.966   InitTarget() start
+T1F1C 074:458.024    J-Link Script File: Executing InitTarget()
+T1F1C 074:458.556   SWD selected. Executing JTAG -> SWD switching sequence.
+T1F1C 074:462.202   DAP initialized successfully.
+T1F1C 074:463.367   Can not attach to CPU. Trying connect under reset.
+T1F1C 074:514.298   SWD selected. Executing JTAG -> SWD switching sequence.
+T1F1C 074:521.486   DAP initialized successfully.
+T1F1C 074:523.251   Connecting to CPU via connect under reset failed.
+T1F1C 074:575.034   InitTarget() end - Took 116ms
+T1F1C 074:575.183   Connect failed. Resetting via Reset pin and trying again.
+T1F1C 074:637.825   InitTarget() start
+T1F1C 074:637.919    J-Link Script File: Executing InitTarget()
+T1F1C 074:638.902   SWD selected. Executing JTAG -> SWD switching sequence.
+T1F1C 074:643.547   DAP initialized successfully.
+T1F1C 074:644.849   Can not attach to CPU. Trying connect under reset.
+T1F1C 074:695.655   SWD selected. Executing JTAG -> SWD switching sequence.
+T1F1C 074:701.097   DAP initialized successfully.
+T1F1C 074:702.726   Connecting to CPU via connect under reset failed.
+T1F1C 074:754.892   InitTarget() end - Took 116ms
+T1F1C 074:755.041 - 297.537ms
+T1F1C 074:755.105 JLINK_GetId()
+T1F1C 074:755.753   InitTarget() start
+T1F1C 074:755.867    J-Link Script File: Executing InitTarget()
+T1F1C 074:757.047   SWD selected. Executing JTAG -> SWD switching sequence.
+T1F1C 074:762.097   DAP initialized successfully.
+T1F1C 074:763.397   Can not attach to CPU. Trying connect under reset.
+T1F1C 074:814.571   SWD selected. Executing JTAG -> SWD switching sequence.
+T1F1C 074:820.712   DAP initialized successfully.
+T1F1C 074:822.618   Connecting to CPU via connect under reset failed.
+T1F1C 074:874.723   InitTarget() end - Took 118ms
+T1F1C 074:874.838   Connect failed. Resetting via Reset pin and trying again.
+T1F1C 074:937.286   InitTarget() start
+T1F1C 074:937.378    J-Link Script File: Executing InitTarget()
+T1F1C 074:938.489   SWD selected. Executing JTAG -> SWD switching sequence.
+T1F1C 074:943.156   DAP initialized successfully.
+T1F1C 074:944.499   Can not attach to CPU. Trying connect under reset.
+T1F1C 074:995.188   SWD selected. Executing JTAG -> SWD switching sequence.
+T1F1C 075:001.380   DAP initialized successfully.
+T1F1C 075:003.406   Connecting to CPU via connect under reset failed.
+T1F1C 075:055.117   InitTarget() end - Took 117ms
+T1F1C 075:055.211 - 300.119ms returns 0x00000000
+T1F1C 075:055.246 JLINK_GetId()
+T1F1C 075:055.797   InitTarget() start
+T1F1C 075:055.850    J-Link Script File: Executing InitTarget()
+T1F1C 075:056.730   SWD selected. Executing JTAG -> SWD switching sequence.
+T1F1C 075:061.166   DAP initialized successfully.
+T1F1C 075:062.547   Can not attach to CPU. Trying connect under reset.
+T1F1C 075:114.313   SWD selected. Executing JTAG -> SWD switching sequence.
+T1F1C 075:120.712   DAP initialized successfully.
+T1F1C 075:122.470   Connecting to CPU via connect under reset failed.
+T1F1C 075:174.400   InitTarget() end - Took 118ms
+T1F1C 075:174.557   Connect failed. Resetting via Reset pin and trying again.
+T1F1C 075:236.660   InitTarget() start
+T1F1C 075:236.825    J-Link Script File: Executing InitTarget()
+T1F1C 075:238.036   SWD selected. Executing JTAG -> SWD switching sequence.
+T1F1C 075:244.384   DAP initialized successfully.
+T1F1C 075:246.490   Can not attach to CPU. Trying connect under reset.
+T1F1C 075:297.765   SWD selected. Executing JTAG -> SWD switching sequence.
+T1F1C 075:304.809   DAP initialized successfully.
+T1F1C 075:307.129   Connecting to CPU via connect under reset failed.
+T1F1C 075:359.559   InitTarget() end - Took 122ms
+T1F1C 075:359.630 - 304.396ms returns 0x00000000
+T1F1C 075:366.281 JLINK_GetFirmwareString(...)
+T1F1C 075:366.346 - 0.077ms
+T3740 209:976.274   
+  ***** Error: Connection to emulator lost!
+T1F1C 423:859.206 JLINK_Close()
+T1F1C 423:877.161 - 18.021ms
+T1F1C 423:877.248   
+T1F1C 423:877.276   Closed

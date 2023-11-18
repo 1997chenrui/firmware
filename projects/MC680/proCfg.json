@@ -1,0 +1,48 @@
+{
+    "proName": "mc680",
+    "proPath": "MC680",
+    "version": "1.1.9",
+    "hardwareVersion": "1",
+    "boards": [
+        [
+            "1",
+            "\\PowerCtl\\PowerCtl0901-3",
+            "PowerCtl0901-3"
+        ],
+        [
+            "2",
+            "\\MotorCtl\\FluidCtl1102",
+            "FluidCtl1102"
+        ],
+        [
+            "3",
+            "\\MotorCtl\\MotorCtl4102",
+            "MotorCtl4102"
+        ],
+        [
+            "4",
+            "\\MotorCtl\\MotorCtl4202",
+            "MotorCtl4202"
+        ],
+        [
+            "5",
+            "\\MotorCtl\\MotorCtl4302",
+            "MotorCtl4302"
+        ],
+        [
+            "6",
+            "\\MotorCtl\\MotorCtl4402",
+            "MotorCtl4402"
+        ],
+        [
+            "7",
+            "\\SignalGet_Disk\\SignalGet1002",
+            "SignalGet1002"
+        ],
+        [
+            "8",
+            "\\MotorCtl\\TempCtl1002",
+            "TempCtl1002"
+        ]
+    ]
+}

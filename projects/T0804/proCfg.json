@@ -1,0 +1,23 @@
+{
+    "proName": "T0804",
+    "proPath": "T0804",
+    "version": "0.0.0",
+    "hardwareVersion": "1",
+    "boards": [
+        [
+            "1",
+            "\\\PowerCtl\\PowerCtl1002-10",
+            "PowerCtl1002-10"
+        ],       
+		[
+            "2",
+            "\\Motor\\MotorCtl2201-30s",
+            "MotorCtl2201-30s"
+        ],
+		[
+            "3",
+            "\\Motor\\MotorCtl2201-30s",
+            "MotorCtl2201-30s"
+        ]
+    ]
+}

@@ -1,0 +1,91 @@
+[
+    {
+        "originVersion": "2.3.0",
+        "Version": "2.3.0",
+        "msg": [],
+        "buildTime": "20230422",
+        "buildMd5": "bef969a09dfee69dea028f9ea77ac82ddbe46b70"
+    },
+    {
+        "originVersion": "2.3.1",
+        "Version": "2.3.1",
+        "msg": [
+            "[优化] 部分测试完成"
+        ],
+        "buildTime": "20230425",
+        "buildMd5": "08c5215f87e24d2b5212abec954f36dc1b0e3819"
+    },
+    {
+        "originVersion": "2.3.2",
+        "Version": "2.3.2",
+        "msg": [
+            "[优化] 初步调试完成"
+        ],
+        "buildTime": "20230426",
+        "buildMd5": "08c5215f87e24d2b5212abec954f36dc1b0e3819"
+    },
+    {
+        "originVersion": "2.3.3",
+        "Version": "2.3.3",
+        "msg": [
+            "[优化] 电源板初步调试完成"
+        ],
+        "buildTime": "20230426",
+        "buildMd5": "08c5215f87e24d2b5212abec954f36dc1b0e3819"
+    },
+    {
+        "originVersion": "2.3.4",
+        "Version": "2.3.4",
+        "msg": [
+            "[优化] 更正玻片扫描引脚配置"
+        ],
+        "buildTime": "20230427",
+        "buildMd5": "08c5215f87e24d2b5212abec954f36dc1b0e3819"
+    },
+    {
+        "originVersion": "2.3.5",
+        "Version": "2.3.5",
+        "msg": [
+            "[优化] 激光读值",
+            "[优化] 吸附样本",
+            "[bug修复] 二号板开机死机"
+        ],
+        "buildTime": "20230427",
+        "buildMd5": "08c5215f87e24d2b5212abec954f36dc1b0e3819"
+    },
+    {
+        "originVersion": "2.3.6",
+        "Version": "2.3.6",
+        "msg": [],
+        "buildTime": "20230428",
+        "buildMd5": "08c5215f87e24d2b5212abec954f36dc1b0e3819"
+    },
+    {
+        "originVersion": "2.3.7",
+        "Version": "2.3.7",
+        "msg": [
+            "[优化] 更改浮子开关有效电平"
+        ],
+        "buildTime": "20230429",
+        "buildMd5": "08c5215f87e24d2b5212abec954f36dc1b0e3819"
+    },
+    {
+        "originVersion": "2.3.8",
+        "Version": "2.3.8",
+        "msg": [
+            "[优化] 调整温控线程延时位置",
+            "[优化] 调整浮子开关上报状态"
+        ],
+        "buildTime": "20230430",
+        "buildMd5": "08c5215f87e24d2b5212abec954f36dc1b0e3819"
+    },
+    {
+        "originVersion": "2.3.9",
+        "Version": "2.3.9",
+        "msg": [
+            "[优化] 新增下坠继电器"
+        ],
+        "buildTime": "20230508",
+        "buildMd5": "08c5215f87e24d2b5212abec954f36dc1b0e3819"
+    }
+]

@@ -1,0 +1,83 @@
+{
+    "proName": "GW6000",
+    "proPath": "GW6000_V3_TEMP",
+    "version": "0.0.17",
+    "hardwareVersion": "3",
+    "boards": [
+        [
+            "1",
+            "\\MotorCtl\\FluidCtl0903",
+            "FluidCtl0903"
+        ],
+        [
+            "2",
+            "\\PowerCtl\\PowerCtl0703",
+            "PowerCtl0703"
+        ],
+        [
+            "3",
+            "\\SignalGet\\SignalGet0703",
+            "SignalGet0703"
+        ],
+        [
+            "4",
+            "\\ServoMotor_old\\MotorCtl-33-03-1.0-GA",
+            "MotorCtl-33-03-1.0-GA"
+        ],
+        [
+            "5",
+            "\\ServoMotor_old\\MotorCtl-48-03-1.0-GB",
+            "MotorCtl-48-03-1.0-GB"
+        ],
+        [
+            "6",
+            "\\SignalGet_Magnetic\\SignalGet1303_10_Magnetic",
+            "SignalGet1303_10_Magnetic"
+        ],
+        [
+            "7",
+            "\\MotorCtl\\TempCtl0703",
+            "TempCtl0703"
+        ],
+        [
+            "8",
+            "\\ServoMotor_old\\MotorCtl-30-03-1.0-SF",
+            "MotorCtl-30-03-1.0-SF"
+        ],
+        [
+            "9",
+            "\\ServoMotor_old\\MotorCtl-28-03-1.0-Puncture",
+            "MotorCtl-28-03-1.0-Puncture"
+        ],
+        [
+            "10",
+            "\\ServoMotor_old\\TempCtl-08-03-1.0-Incubate",
+            "TempCtl-08-03-1.0-Incubate"
+        ],
+        [
+            "11",
+            "\\MotorCtl\\MotorCtl2903",
+            "MotorCtl2903"
+        ],
+        [
+            "12",
+            "\\ServoMotor_old\\MotorCtl-47-03-1.0-SS",
+            "MotorCtl-47-03-1.0-SS"
+        ],
+        [
+            "13",
+            "\\ServoMotor_old\\MotorCtl-27-03-1.0-RA",
+            "MotorCtl-27-03-1.0-RA"
+        ],
+        [
+            "14",
+            "\\ServoMotor_old\\MotorCtl-46-03-1.0-RB",
+            "MotorCtl-46-03-1.0-RB"
+        ],
+        [
+            "15",
+            "\\ServoMotor_old\\MotorCtl-55-01-1.0",
+            "MotorCtl-55-01-1.0"
+        ]
+    ]
+}

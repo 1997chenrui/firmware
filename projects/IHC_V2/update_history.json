@@ -1,0 +1,176 @@
+[
+    {
+        "originVersion": "1.1.0",
+        "Version": "1.1.0",
+        "msg": [],
+        "buildTime": "20221219",
+        "buildMd5": "5f454f5bc37d93b4b51e274b9ae8aeb9a18eafaf"
+    },
+    {
+        "originVersion": "1.1.1",
+        "Version": "1.1.1",
+        "msg": [
+            "[优化] V2版检测完成"
+        ],
+        "buildTime": "20221220",
+        "buildMd5": "5f454f5bc37d93b4b51e274b9ae8aeb9a18eafaf"
+    },
+    {
+        "originVersion": "1.1.2",
+        "Version": "1.1.2",
+        "msg": [
+            "[优化] 测试完成"
+        ],
+        "buildTime": "20221231",
+        "buildMd5": "6f90edf10d8b5055b4abbf4d50437f19c6dac81d"
+    },
+    {
+        "originVersion": "2.1.0",
+        "Version": "2.1.0",
+        "msg": [],
+        "buildTime": "20221231",
+        "buildMd5": "6f90edf10d8b5055b4abbf4d50437f19c6dac81d"
+    },
+    {
+        "originVersion": "2.1.0",
+        "Version": "2.1.0",
+        "msg": [],
+        "buildTime": "20230103",
+        "buildMd5": "eaff5ddb56be59fafe79cfa2834ea6f5d8988b73"
+    },
+    {
+        "originVersion": "2.1.1",
+        "Version": "2.1.1",
+        "msg": [
+            "[优化] 与上位机联调成功"
+        ],
+        "buildTime": "20230106",
+        "buildMd5": "d7000951432a27100b1bb8f622400bf9ca33205b"
+    },
+    {
+        "originVersion": "2.1.2",
+        "Version": "2.1.2",
+        "msg": [
+            "[优化] 自动定标"
+        ],
+        "buildTime": "20230109",
+        "buildMd5": "4ec5d29556b068c5322f1f532c4a618ed0bb8a82"
+    },
+    {
+        "originVersion": "2.1.3",
+        "Version": "2.1.3",
+        "msg": [
+            "[优化] 自动定标"
+        ],
+        "buildTime": "20230109",
+        "buildMd5": "4ec5d29556b068c5322f1f532c4a618ed0bb8a82"
+    },
+    {
+        "originVersion": "2.1.4",
+        "Version": "2.1.4",
+        "msg": [
+            "[优化] 修改抓手夹爪电机保持电流（非开关盖时）为5"
+        ],
+        "buildTime": "20230112",
+        "buildMd5": "55deb8e5098634ad77c407645f9355a63f3b5196"
+    },
+    {
+        "originVersion": "2.1.5",
+        "Version": "2.1.5",
+        "msg": [
+            "[优化] 修改开盖旋转，开盖抓手电机电流参数"
+        ],
+        "buildTime": "20230113",
+        "buildMd5": "55deb8e5098634ad77c407645f9355a63f3b5196"
+    },
+    {
+        "originVersion": "2.1.6",
+        "Version": "2.1.6",
+        "msg": [
+            "[优化] 开盖旋转电机电流参数"
+        ],
+        "buildTime": "20230113",
+        "buildMd5": "55deb8e5098634ad77c407645f9355a63f3b5196"
+    },
+    {
+        "originVersion": "2.1.7",
+        "Version": "2.1.7",
+        "msg": [
+            "[优化] 混匀前添加启动电流"
+        ],
+        "buildTime": "20230115",
+        "buildMd5": "dd5b95dd20db899c010bb2b7c0f42cc7c89460c0"
+    },
+    {
+        "originVersion": "2.1.8",
+        "Version": "2.1.8",
+        "msg": [
+            "[bug修复] 柱塞泵微升与步数对应关系错误"
+        ],
+        "buildTime": "20230115",
+        "buildMd5": "15cc15dfdb7eb6829d4b6af65c6b37b60b827824"
+    },
+    {
+        "originVersion": "2.1.10",
+        "Version": "2.1.10",
+        "msg": [
+            "[优化] 优化中转区电机异常"
+        ],
+        "buildTime": "20230202",
+        "buildMd5": "55deb8e5098634ad77c407645f9355a63f3b5196"
+    },
+    {
+        "originVersion": "2.1.11",
+        "Version": "2.1.11",
+        "msg": [
+            "[优化] 修改开盖旋转电机保持电流（5->3）"
+        ],
+        "buildTime": "20230202",
+        "buildMd5": "55deb8e5098634ad77c407645f9355a63f3b5196"
+    },
+    {
+        "originVersion": "2.1.12",
+        "Version": "2.1.12",
+        "msg": [
+            "[优化] 下夹爪零位距离（1->0.5）"
+        ],
+        "buildTime": "20230323",
+        "buildMd5": "3632b8057d93c4ea74bb8799bb1fc1f9360f9d30"
+    },
+    {
+        "originVersion": "2.1.13",
+        "Version": "2.1.13",
+        "msg": [
+            "[优化] 修改下架爪运行电流15->25"
+        ],
+        "buildTime": "20230418",
+        "buildMd5": "bef969a09dfee69dea028f9ea77ac82ddbe46b70"
+    },
+    {
+        "originVersion": "2.1.14",
+        "Version": "2.1.14",
+        "msg": [
+            "[优化] 风扇默认开"
+        ],
+        "buildTime": "20230620",
+        "buildMd5": "0317b877f0f55de689f123ecae38c9cbd3286f39"
+    },
+    {
+        "originVersion": "2.1.15",
+        "Version": "2.1.15",
+        "msg": [
+            "[优化] 新增电机以固定时间转动接口"
+        ],
+        "buildTime": "20230725",
+        "buildMd5": "491779ddf8d81086c810d136d35aa4cd6a9eb4a9"
+    },
+    {
+        "originVersion": "2.1.16",
+        "Version": "2.1.16",
+        "msg": [
+            "[bug修复] 多次调用混匀电机以固定时间旋转接口可能导致固件卡死"
+        ],
+        "buildTime": "20231012",
+        "buildMd5": "c80c32851e099766ff54677bed891ae559d8e11e"
+    }
+]

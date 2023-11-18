@@ -1,0 +1,33 @@
+#ifndef __PROJECT_CFG_H__
+#define __PROJECT_CFG_H__
+
+#define TCT_PRESSURE_SINGAL_ENABLE 0
+#define IO_CTRL_EVENT_ENABLE 0
+#define PRESSURE_SENSOR_ENABLE 0
+#define LOCAL_ADDRESS 4
+
+
+/*********电机配置********/
+//对于旋转电机无效
+#define MOTOR_ZERO_COORDINATE 7200
+//对于旋转电机无效
+#define MOTOR_MAX_COORDINATE 80000
+//对于旋转电机无效
+#define MOTOR_LOST_ENDURE_CONTINUE 4800
+//对于旋转电机无效
+#define MOTOR_LOST_ENDURE_STOP 6400
+#define MOTOR_ZERO_TRIG_VOL 0
+#define MOTOR_DIR_VOL 1
+#define MOTOR_ENB_VOL 0
+#define MOTOR_HALF_VOL 0
+//对于旋转电机无效
+#define MOTOR_ENABLE_ZERO_MAKEUP 1
+//对于旋转电机无效
+#define MOTOR_BACK_ZERO_SPEED_MODE 0
+#define MOTOR_SUBDIVISIION 16
+#define MOTOR_CURRENT_LEVEL 15
+#define MOTOR_HOLD_LEVEL 5
+//对于旋转电机无效
+#define MOTOR_RS_COORDINATE 4800
+
+#endif

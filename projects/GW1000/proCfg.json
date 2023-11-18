@@ -1,0 +1,43 @@
+{
+    "proName": "gw1000",
+    "proPath": "GW1000",
+    "version": "2.3.23",
+    "hardwareVersion": "1",
+    "boards": [
+        [
+            "1",
+            "\\PowerCtl\\PowerCtl0901",
+            "PowerCtl0901"
+        ],
+        [
+            "2",
+            "\\SignalGet\\SignalGet1103",
+            "SignalGet1103"
+        ],
+        [
+            "3",
+            "\\LampCtl\\LampCtl0602-2",
+            "LampCtl0602-2"
+        ],
+        [
+            "4",
+            "\\MotorCtl\\TempCtl1101",
+            "TempCtl1101"
+        ],
+        [
+            "5",
+            "\\MotorCtl\\FluidCtl1202",
+            "FluidCtl1202"
+        ],
+        [
+            "6",
+            "\\MotorCtl\\MotorCtl4902",
+            "MotorCtl4902"
+        ],
+        [
+            "7",
+            "\\MotorCtl\\MotorCtl5002",
+            "MotorCtl5002"
+        ]
+    ]
+}

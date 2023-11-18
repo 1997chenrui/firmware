@@ -1,0 +1,73 @@
+{
+    "proName": "mc800",
+    "proPath": "MC800",
+    "version": "1.1.33",
+    "hardwareVersion": "1",
+    "boards": [
+        [
+            "1",
+            "\\PowerCtl\\PowerCtl0901",
+            "PowerCtl0901"
+        ],
+        [
+            "2",
+            "\\SignalGet_Disk\\SignalGet0802",
+            "SignalGet0802"
+        ],
+        [
+            "3",
+            "\\SignalGet_Disk\\SignalGet0802",
+            "SignalGet0802"
+        ],
+        [
+            "4",
+            "\\MotorCtl\\TempCtl4002",
+            "TempCtl4002"
+        ],
+        [
+            "5",
+            "\\MotorCtl\\FluidCtl1002",
+            "FluidCtl1002"
+        ],
+        [
+            "6",
+            "\\MotorCtl\\MotorCtl3402",
+            "MotorCtl3402"
+        ],
+        [
+            "7",
+            "\\MotorCtl\\MotorCtl3502",
+            "MotorCtl3502"
+        ],
+        [
+            "8",
+            "\\MotorCtl\\MotorCtl3602",
+            "MotorCtl3602"
+        ],
+        [
+            "9",
+            "\\MotorCtl\\MotorCtl3702",
+            "MotorCtl3702"
+        ],
+        [
+            "10",
+            "\\MotorCtl\\MotorCtl3702-2",
+            "MotorCtl3702-2"
+        ],
+        [
+            "11",
+            "\\MotorCtl\\MotorCtl3902",
+            "MotorCtl3902"
+        ],
+        [
+            "12",
+            "\\MotorCtl\\MotorCtl4002",
+            "MotorCtl4002"
+        ],
+        [
+            "13",
+            "\\MotorCtl\\MotorCtl4002A21",
+            "MotorCtl4002A21"
+        ]
+    ]
+}

@@ -1,0 +1,6 @@
+--c99 -c --cpu Cortex-M4 -g -O0 -Otime --apcs=interwork --split_sections -I ../Inc -I ..\..\..\..\chips\stm32f4xx\Driver\Inc -I ..\..\..\..\chips\stm32f4xx\Inc\Legacy -I ..\..\..\..\arch\cortex-m\CMSIS\Include -I ..\..\..\..\chips\stm32f4xx\CMSISDevice\Inc -I ..\..\..\..\libraries\Protocols -I ..\..\..\..\libraries\Driver -I ..\..\..\..\tools -I ..\..\..\..\libraries\Bus -I ..\..\..\..\libraries -I ..\..\Src -I ..\..\..\..\kernel\F4_UCOSII -I ..\..\..\..\kernel -I ..\..\..\..\libraries\mTMC5130Driver -I ..\..\..\..\libraries\modules -I ..\..\..\..\libraries\modules\itf -I ..\..\..\..\libraries\drivers -I ..\..\..\board_mod --C99  --no-multibyte-chars
+-I.\RTE\_FluidCtl1002
+-IC:\MCU\Keil\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include
+-IC:\MCU\Keil\Packs\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include
+-D__UVISION_VERSION="538" -D_RTE_ -DSTM32F407xx -D_RTE_ -DUSE_HAL_DRIVER -DSTM32F407xx -DPLATFORM_UCOS2 -DVECT_TAB_OFFSET="0x10000"
+-o .\build\motor_cfg.o --omf_browse .\build\motor_cfg.crf --depend .\build\motor_cfg.d "..\Src\motor_cfg.c"

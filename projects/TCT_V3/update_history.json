@@ -1,0 +1,114 @@
+[
+    {
+        "originVersion": "2.2.1",
+        "Version": "2.2.1",
+        "msg": [
+            "[优化] 修改玻片夹紧电机零位(0.2->2.7),样本夹紧电机，抽负压电机，柱塞泵电机参数。"
+        ],
+        "buildTime": "20230130",
+        "buildMd5": "55deb8e5098634ad77c407645f9355a63f3b5196"
+    },
+    {
+        "originVersion": "2.2.2",
+        "Version": "2.2.2",
+        "msg": [
+            "[优化] 修改样本夹紧电机零位距离（0.05->0.5），修改玻片夹爪夹紧电机零位距离（2.7->0.5），修改吸附头移动电机零位距离（0.5->5.5），修改吸附拓印样本瓶旋转电机复位方向，修改染色池1，2柱塞泵电机步率",
+            "[优化] 修改样本Z电机运行电流（15->24），修改吸附头移动电机保持电流（5->10）"
+        ],
+        "buildTime": "20230208",
+        "buildMd5": "b95820744925bd0e77c0605dff8dc69992aa906c"
+    },
+    {
+        "originVersion": "2.2.3",
+        "Version": "2.2.3",
+        "msg": [
+            "[bug修复] 修复电机复位异常报回零异常"
+        ],
+        "buildTime": "20230213",
+        "buildMd5": "1ca7acc63efe2f247096ef9a157bea6e1f115c67"
+    },
+    {
+        "originVersion": "2.2.3",
+        "Version": "2.2.3",
+        "msg": [
+            "[优化] 增大采值上传缓存"
+        ],
+        "buildTime": "20230213",
+        "buildMd5": "51ccaa01f4a84951688a077c42d59ec3aadbbed6"
+    },
+    {
+        "originVersion": "2.2.4",
+        "Version": "2.2.4",
+        "msg": [
+            "[bug修复] 修复玻片扫描过程中传感器一直处于触发状态后2号板ping不通"
+        ],
+        "buildTime": "20230215",
+        "buildMd5": "f5bd605d6b29fac392c23a6e61dac17b6cf2e971"
+    },
+    {
+        "originVersion": "2.2.5",
+        "Version": "2.2.5",
+        "msg": [
+            "[优化] 取消混匀时间限制",
+            "[优化] 修改样本臂X保持电流(15->10)",
+            "[优化] 修改拨叉推拉零位距离(2.5->6)",
+            "[优化] 更改染色池柱塞泵保持电流(5->10)"
+        ],
+        "buildTime": "20230224",
+        "buildMd5": "673c7223e5c0f30973b27671a56de4d17c9c1274"
+    },
+    {
+        "originVersion": "2.2.6",
+        "Version": "2.2.6",
+        "msg": [
+            "[优化] 优化玻片扫描"
+        ],
+        "buildTime": "20230309",
+        "buildMd5": "923c4049ecc3027713e1cbb7af0dc1085ce5e403"
+    },
+    {
+        "originVersion": "2.2.7",
+        "Version": "2.2.7",
+        "msg": [
+            "[优化] 优化玻片扫描"
+        ],
+        "buildTime": "20230316",
+        "buildMd5": "6e17b65bd7ee8781af39be9b79e575111e31ef05"
+    },
+    {
+        "originVersion": "2.2.8",
+        "Version": "2.2.8",
+        "msg": [
+            "[优化] TCT修改吸附头移动电机零位距离（5.5->2.5）",
+            "[优化] 关机前关闭RGB灯",
+            "[新增] 开放读玻片数量检测传感器，样本瓶检测传感器，模杯在位检测传感器给上位机"
+        ],
+        "buildTime": "20230407",
+        "buildMd5": "bef969a09dfee69dea028f9ea77ac82ddbe46b70"
+    },
+    {
+        "originVersion": "2.2.8",
+        "Version": "2.2.8",
+        "msg": [],
+        "buildTime": "20230407",
+        "buildMd5": "bef969a09dfee69dea028f9ea77ac82ddbe46b70"
+    },
+    {
+        "originVersion": "2.2.9",
+        "Version": "2.2.9",
+        "msg": [
+            "[优化] 更正激光采值错误代码"
+        ],
+        "buildTime": "20230412",
+        "buildMd5": "bef969a09dfee69dea028f9ea77ac82ddbe46b70"
+    },
+    {
+        "originVersion": "2.2.10",
+        "Version": "2.2.10",
+        "msg": [
+            "[优化] 修复吸附样本代码错误"
+        ],
+        "buildTime": "20230414",
+        "buildMd5": "bef969a09dfee69dea028f9ea77ac82ddbe46b70"
+    }
+]

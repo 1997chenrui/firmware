@@ -1,0 +1,71 @@
+[
+    {
+        "originVersion": "0.0.0",
+        "Version": "0.0.0",
+        "msg": [
+            "[新增] 创建项目"
+        ],
+        "buildTime": "20230404",
+        "buildMd5": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+    },
+    {
+        "originVersion": "0.0.1",
+        "Version": "0.0.1",
+        "msg": [],
+        "buildTime": "20230606",
+        "buildMd5": "b8431b93ea2dd574df36795595d5c6c4326be4f8"
+    },
+    {
+        "originVersion": "0.0.1",
+        "Version": "0.0.1",
+        "msg": [
+            "[新增] test"
+        ],
+        "buildTime": "20230609",
+        "buildMd5": "dc848cfc4e1b485e9ef6281bdb2db101e335a7cf"
+    },
+    {
+        "originVersion": "0.0.2",
+        "Version": "0.0.2",
+        "msg": [
+            "[bug修复] 意外的使能FPU"
+        ],
+        "buildTime": "20230609",
+        "buildMd5": "9b0a1baebd497d8a04770e40f3f66f046587ed76"
+    },
+    {
+        "originVersion": "0.0.3",
+        "Version": "0.0.3",
+        "msg": [],
+        "buildTime": "20230629",
+        "buildMd5": "7a17675fbdf65cdd974edf2b1fed9d6eba90ffcb"
+    },
+    {
+        "originVersion": "0.0.4",
+        "Version": "0.1.0",
+        "msg": [],
+        "buildTime": "20230720",
+        "buildMd5": "019f4703abad13ac856741188a05aa84ff6ba37f"
+    },
+    {
+        "originVersion": "0.1.0",
+        "Version": "0.1.1",
+        "msg": [],
+        "buildTime": "20230802",
+        "buildMd5": "39ce807d453758683b76c9570b0df7100dad499a"
+    },
+    {
+        "originVersion": "0.1.2",
+        "Version": "0.1.2",
+        "msg": [],
+        "buildTime": "20230803",
+        "buildMd5": "e7a2058026a0fc2433a3be28b5f34d6b2c20985a"
+    },
+    {
+        "originVersion": "0.1.3",
+        "Version": "0.1.3",
+        "msg": [],
+        "buildTime": "20230815",
+        "buildMd5": "81df0628aef66efe65cf29191267b9500dde6175"
+    }
+]

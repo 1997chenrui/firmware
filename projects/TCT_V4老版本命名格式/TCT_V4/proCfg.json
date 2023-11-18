@@ -1,0 +1,43 @@
+{
+    "proName": "tct",
+    "proPath": "TCT_V4",
+    "version": "2.3.9",
+    "hardwareVersion": "4",
+    "boards": [
+        [
+            "1",
+            "\\PowerCtl\\PowerCtl1002",
+            "PowerCtl1002"
+        ],
+        [
+            "2",
+            "\\MotorCtl\\MB0202-2A02",
+            "MB0202-2A02"
+        ],
+        [
+            "3",
+            "\\MotorCtl\\MB0202-2A03",
+            "MB0202-2A03"
+        ],
+        [
+            "4",
+            "\\MotorCtl\\MB0202-2A04",
+            "MB0202-2A04"
+        ],
+        [
+            "5",
+            "\\MotorCtl\\MB0202-2A05",
+            "MB0202-2A05"
+        ],
+        [
+            "6",
+            "\\MotorCtl\\MB0202-2A06",
+            "MB0202-2A06"
+        ],
+        [
+            "7",
+            "\\MotorCtl\\MB0202-2A07",
+            "MB0202-2A07"
+        ]
+    ]
+}

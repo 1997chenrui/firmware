@@ -1,0 +1,13 @@
+{
+    "proName": "m1600",
+    "proPath": "M1600",
+    "version": "0.0.1",
+    "hardwareVersion": "1",
+    "boards": [
+        [
+            "1",
+            "\\Motor\\MotorCtl2201-30s",
+            "MotorCtl2201-30s"
+        ]
+    ]
+}

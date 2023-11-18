@@ -1,0 +1,15 @@
+.\build\data_struct.o: ..\..\..\..\tools\data_struct.c
+.\build\data_struct.o: ..\..\..\..\tools\data_struct.h
+.\build\data_struct.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\string.h
+.\build\data_struct.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h
+.\build\data_struct.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdlib.h
+.\build\data_struct.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdbool.h
+.\build\data_struct.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdio.h
+.\build\data_struct.o: ..\..\..\..\kernel\os_implement.h
+.\build\data_struct.o: ..\..\..\..\kernel\F4_UCOSII\ucos_ii.h
+.\build\data_struct.o: ..\..\..\..\kernel\F4_UCOSII\app_cfg.h
+.\build\data_struct.o: ..\..\..\..\kernel\F4_UCOSII\cpu.h
+.\build\data_struct.o: ..\..\..\..\kernel\F4_UCOSII\cpu_def.h
+.\build\data_struct.o: ..\..\..\..\kernel\F4_UCOSII\cpu_cfg.h
+.\build\data_struct.o: ..\..\..\..\kernel\F4_UCOSII\os_cfg.h
+.\build\data_struct.o: ..\..\..\..\kernel\F4_UCOSII\os_cpu.h

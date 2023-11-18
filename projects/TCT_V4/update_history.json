@@ -1,0 +1,84 @@
+[
+    {
+        "originVersion": "1.1.18",
+        "Version": "1.1.18",
+        "msg": [
+            "[优化] 新增重启平板接口"
+        ],
+        "buildTime": "20230704",
+        "buildMd5": "0fb455adb4841100dccd1a6f1405ba58da595c86"
+    },
+    {
+        "originVersion": "1.1.19",
+        "Version": "1.1.19",
+        "msg": [
+            "[优化] 新增重启接口"
+        ],
+        "buildTime": "20230713",
+        "buildMd5": "0fb455adb4841100dccd1a6f1405ba58da595c86"
+    },
+    {
+        "originVersion": "1.1.20",
+        "Version": "1.1.20",
+        "msg": [
+            "[优化] 吸附样本试剂分气压段压力校准"
+        ],
+        "buildTime": "20230714",
+        "buildMd5": "0fb455adb4841100dccd1a6f1405ba58da595c86"
+    },
+    {
+        "originVersion": "1.1.21",
+        "Version": "1.1.21",
+        "msg": [
+            "[优化] 可传任意长度的气压校准数组"
+        ],
+        "buildTime": "20230717",
+        "buildMd5": "0fb455adb4841100dccd1a6f1405ba58da595c86"
+    },
+    {
+        "originVersion": "1.1.22",
+        "Version": "1.1.22",
+        "msg": [
+            "[优化] 吸附新增卡尔曼滤波",
+            "[优化] 上位机传标准大气压与吸附气压初始值"
+        ],
+        "buildTime": "20230726",
+        "buildMd5": "491779ddf8d81086c810d136d35aa4cd6a9eb4a9"
+    },
+    {
+        "originVersion": "1.1.23",
+        "Version": "1.1.23",
+        "msg": [
+            "[bug修复] 更正夹爪旋转电机配置",
+            "[bug修复] 更正RGB灯条时序"
+        ],
+        "buildTime": "20230803",
+        "buildMd5": "ad59452da20b9d43be3961f8af8788d43de1033e"
+    },
+    {
+        "originVersion": "1.2.24",
+        "Version": "1.2.24",
+        "msg": [
+            "[优化] 向上位机开放玻片臂组电机零位状态读取接口",
+            "[优化] 改变玻片夹爪电机复位方向"
+        ],
+        "buildTime": "20230928",
+        "buildMd5": "3c1c51713bf614824a58aef213654e45340deb09"
+    },
+    {
+        "originVersion": "1.2.25",
+        "Version": "1.2.25",
+        "msg": [
+            "[优化] 新增玻片扫码功能"
+        ],
+        "buildTime": "20231009",
+        "buildMd5": "c80c32851e099766ff54677bed891ae559d8e11e"
+    },
+    {
+        "originVersion": "1.2.26",
+        "Version": "1.2.26",
+        "msg": [],
+        "buildTime": "20231009",
+        "buildMd5": "c80c32851e099766ff54677bed891ae559d8e11e"
+    }
+]

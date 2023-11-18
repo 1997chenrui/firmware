@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "main.h": "c",
+        "tmc4361.h": "c",
+        "tmc4361_cfg.h": "c",
+        "stm32f4xx_hal.h": "c",
+        "tmc4361_constants.h": "c",
+        "tmc4361_fields.h": "c",
+        "memory": "c",
+        "tmc4361_register.h": "c",
+        "motorclass.h": "c",
+        "string": "c",
+        "tmc4361a_register.h": "c",
+        "tmc4361a_fields.h": "c",
+        "limits": "c"
+    }
+}

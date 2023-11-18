@@ -1,0 +1,84 @@
+[
+    {
+        "version":"1.0.1",
+        "binmap":{
+            "ihc.1-1-1.0.1":"Desinpro-ihc-route-project-a-v1.0.1",
+            "ihc.2-1-1.0.1":"Desinpro-ihc-slideframe-project-a-v1.0.1",
+            "ihc.3-1-1.0.1":"Desinpro-ihc-motorr-project-a-v1.0.1",
+            "ihc.4-1-1.0.1":"Desinpro-ihc-motorhand-project-a-v1.0.1",
+            "ihc.5-1-1.0.1":"Desinpro-ihc-mixing-project-a-v1.0.1"
+        },
+        "msg":[
+            "[功能新增] 电机控制",
+            "[功能新增] 温度控制",
+            "[功能新增] 传感器读取",
+            "[功能新增] LED控制",
+            "[功能新增] 混匀功能控制",
+            "[功能新增] 通讯实现"
+        ]
+    },
+    {
+        "version":"1.0.2",
+        "binmap":{
+            "ihc.1-1-1.0.2":"Desinpro-ihc-route-project-a-v1.0.1",
+            "ihc.2-1-1.0.2":"Desinpro-ihc-slideframe-project-a-v1.0.1",
+            "ihc.3-1-1.0.2":"Desinpro-ihc-motorr-project-a-v1.0.2",
+            "ihc.4-1-1.0.2":"Desinpro-ihc-motorhand-project-a-v1.0.1",
+            "ihc.5-1-1.0.2":"Desinpro-ihc-mixing-project-a-v1.0.1"
+        },
+        "msg":[
+            "[功能优化] 气泵控制修改为PWM方式"
+        ]
+    },
+    {
+        "version":"1.0.3",
+        "binmap":{
+            "ihc.1-1-1.0.3":"Desinpro-ihc-route-project-a-v1.0.1",
+            "ihc.2-1-1.0.3":"Desinpro-ihc-slideframe-project-a-v1.0.2",
+            "ihc.3-1-1.0.3":"Desinpro-ihc-motorr-project-a-v1.0.2",
+            "ihc.4-1-1.0.3":"Desinpro-ihc-motorhand-project-a-v1.0.1",
+            "ihc.5-1-1.0.3":"Desinpro-ihc-mixing-project-a-v1.0.1"
+        },
+        "msg":[
+            "[功能优化] 温控控制功能优化"
+        ]
+    },
+    {
+        "version":"1.0.4",
+        "binmap":{
+            "ihc.1-1-1.0.4":"Desinpro-ihc-route-project-a-v1.0.2",
+            "ihc.2-1-1.0.4":"Desinpro-ihc-slideframe-project-a-v1.0.3",
+            "ihc.3-1-1.0.4":"Desinpro-ihc-motorr-project-a-v1.0.3",
+            "ihc.4-1-1.0.4":"Desinpro-ihc-motorhand-project-a-v1.0.2",
+            "ihc.5-1-1.0.4":"Desinpro-ihc-mixing-project-a-v1.0.2"
+        },
+        "msg":[
+            "[Bug修复] 修复IO上报内存溢出问题"
+        ]
+    },
+    {
+        "version":"1.0.5",
+        "binmap":{
+            "ihc.1-1-1.0.4":"Desinpro-ihc-route-project-a-v1.0.2",
+            "ihc.2-1-1.0.4":"Desinpro-ihc-slideframe-project-a-v1.0.3",
+            "ihc.3-1-1.0.4":"Desinpro-ihc-motorr-project-a-v1.0.3",
+            "ihc.4-1-1.0.4":"Desinpro-ihc-motorhand-project-a-v1.0.2",
+            "ihc.5-1-1.0.4":"Desinpro-ihc-mixing-project-a-v1.0.2"
+        },
+        "msg":[
+            "[Bug修复] 5号板固件引导地址错误"
+        ]
+    },
+    {
+        "version":"1.0.6",
+        "binmap":{
+            "ihc.1-1-1.0.4":"Desinpro-ihc-route-project-a-v1.0.3",
+            "ihc.2-1-1.0.4":"Desinpro-ihc-slideframe-project-a-v1.0.4",
+            "ihc.3-1-1.0.4":"Desinpro-ihc-motorr-project-a-v1.0.4",
+            "ihc.4-1-1.0.4":"Desinpro-ihc-motorhand-project-a-v1.0.3",
+            "ihc.5-1-1.0.4":"Desinpro-ihc-mixing-project-a-v1.0.3"
+        },
+        "msg":[
+            "[Bug修复] 修复固件更新问题"
+        ]
+]

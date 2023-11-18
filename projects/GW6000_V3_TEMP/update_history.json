@@ -1,0 +1,153 @@
+[
+    {
+        "originVersion": "0.0.0",
+        "Version": "0.0.0",
+        "msg": [
+            "[新增] 创建项目"
+        ],
+        "buildTime": "20230404",
+        "buildMd5": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+    },
+    {
+        "originVersion": "0.0.1",
+        "Version": "0.0.1",
+        "msg": [],
+        "buildTime": "20230606",
+        "buildMd5": "b8431b93ea2dd574df36795595d5c6c4326be4f8"
+    },
+    {
+        "originVersion": "0.0.1",
+        "Version": "0.0.1",
+        "msg": [
+            "[新增] test"
+        ],
+        "buildTime": "20230609",
+        "buildMd5": "dc848cfc4e1b485e9ef6281bdb2db101e335a7cf"
+    },
+    {
+        "originVersion": "0.0.2",
+        "Version": "0.0.2",
+        "msg": [
+            "[bug修复] 意外的使能FPU"
+        ],
+        "buildTime": "20230609",
+        "buildMd5": "9b0a1baebd497d8a04770e40f3f66f046587ed76"
+    },
+    {
+        "originVersion": "0.0.3",
+        "Version": "0.0.3",
+        "msg": [],
+        "buildTime": "20230626",
+        "buildMd5": "3bce38cc7c5fae6a0f90207f8dcbd94b2c5af8dc"
+    },
+    {
+        "originVersion": "0.0.4",
+        "Version": "0.0.4",
+        "msg": [],
+        "buildTime": "20230704",
+        "buildMd5": "4085b1ae214c62b328e4ab05e06fd47d8fd67a61"
+    },
+    {
+        "originVersion": "0.0.5",
+        "Version": "0.0.5",
+        "msg": [],
+        "buildTime": "20230704",
+        "buildMd5": "92dd2f07313bddf4e32891a5d4377c95f2d2e426"
+    },
+    {
+        "originVersion": "0.0.6",
+        "Version": "0.0.6",
+        "msg": [],
+        "buildTime": "20230707",
+        "buildMd5": "796620ed5a644a7ead85e1abd92ac16af67f50b4"
+    },
+    {
+        "originVersion": "0.0.7",
+        "Version": "0.0.7",
+        "msg": [],
+        "buildTime": "20230725",
+        "buildMd5": "2ebe224bf1ab6f189f4145e0b26af7f9f3a6d380"
+    },
+    {
+        "originVersion": "0.0.8",
+        "Version": "0.0.8",
+        "msg": [],
+        "buildTime": "20230801",
+        "buildMd5": "db8e33aee82e40eaa2fe8c90c9dc998d85d2f78a"
+    },
+    {
+        "originVersion": "0.0.9",
+        "Version": "0.0.9",
+        "msg": [],
+        "buildTime": "20230802",
+        "buildMd5": "e7a2058026a0fc2433a3be28b5f34d6b2c20985a"
+    },
+    {
+        "originVersion": "0.0.10",
+        "Version": "0.0.10",
+        "msg": [],
+        "buildTime": "20230803",
+        "buildMd5": "e7a2058026a0fc2433a3be28b5f34d6b2c20985a"
+    },
+    {
+        "originVersion": "0.0.11",
+        "Version": "0.0.11",
+        "msg": [],
+        "buildTime": "20230804",
+        "buildMd5": "fba362a8f2219ce7f11fa49e71e3eb949bec1af0"
+    },
+    {
+        "originVersion": "0.0.12",
+        "Version": "0.0.12",
+        "msg": [],
+        "buildTime": "20230804",
+        "buildMd5": "fba362a8f2219ce7f11fa49e71e3eb949bec1af0"
+    },
+    {
+        "originVersion": "0.0.12",
+        "Version": "0.0.13",
+        "msg": [],
+        "buildTime": "20230811",
+        "buildMd5": "81df0628aef66efe65cf29191267b9500dde6175"
+    },
+    {
+        "originVersion": "0.0.13",
+        "Version": "0.0.13",
+        "msg": [],
+        "buildTime": "20230811",
+        "buildMd5": "81df0628aef66efe65cf29191267b9500dde6175"
+    },
+    {
+        "originVersion": "0.0.14",
+        "Version": "0.0.14",
+        "msg": [],
+        "buildTime": "20230828",
+        "buildMd5": "b5bc1ab870b822cf232d6ada09abe7614b118d74"
+    },
+    {
+        "originVersion": "0.0.15",
+        "Version": "0.0.15",
+        "msg": [],
+        "buildTime": "20230829",
+        "buildMd5": "b5bc1ab870b822cf232d6ada09abe7614b118d74"
+    },
+    {
+        "originVersion": "0.0.16",
+        "Version": "0.0.16",
+        "msg": [
+            "[优化] 新增15号分样臂组板",
+            "[优化] 纠正电机移动方向"
+        ],
+        "buildTime": "20231024",
+        "buildMd5": "e17b31f13ce45e0c35696b1b6131597179a064a4"
+    },
+    {
+        "originVersion": "0.0.17",
+        "Version": "0.0.17",
+        "msg": [
+            "[优化] 修改电机抓手Y电机复位方向"
+        ],
+        "buildTime": "20231024",
+        "buildMd5": "e17b31f13ce45e0c35696b1b6131597179a064a4"
+    }
+]

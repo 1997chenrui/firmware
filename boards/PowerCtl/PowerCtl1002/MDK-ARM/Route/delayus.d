@@ -1,0 +1,10 @@
+.\route\delayus.o: ..\..\..\..\tools\delayus.c
+.\route\delayus.o: ..\..\..\..\tools\delayus.h
+.\route\delayus.o: ..\..\..\..\kernel\os_implement.h
+.\route\delayus.o: ..\..\..\..\kernel\F4_UCOSII\ucos_ii.h
+.\route\delayus.o: ..\..\..\..\kernel\F4_UCOSII\app_cfg.h
+.\route\delayus.o: ..\..\..\..\kernel\F4_UCOSII\cpu.h
+.\route\delayus.o: ..\..\..\..\kernel\F4_UCOSII\cpu_def.h
+.\route\delayus.o: ..\..\..\..\kernel\F4_UCOSII\cpu_cfg.h
+.\route\delayus.o: ..\..\..\..\kernel\F4_UCOSII\os_cfg.h
+.\route\delayus.o: ..\..\..\..\kernel\F4_UCOSII\os_cpu.h

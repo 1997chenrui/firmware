@@ -3,6 +3,7 @@
 .\route\uart_cfg.o: ../Inc/uart_cfg.h
 .\route\uart_cfg.o: ..\..\Src\uart_thread.h
 .\route\uart_cfg.o: ..\..\..\..\tools\macro.h
+.\route\uart_cfg.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdbool.h
 .\route\uart_cfg.o: ..\..\..\..\libraries\Bus\bus.h
 .\route\uart_cfg.o: ..\..\..\..\kernel\os_implement.h
 .\route\uart_cfg.o: ..\..\..\..\kernel\F4_UCOSII\ucos_ii.h
@@ -13,7 +14,6 @@
 .\route\uart_cfg.o: ..\..\..\..\kernel\F4_UCOSII\os_cfg.h
 .\route\uart_cfg.o: ..\..\..\..\kernel\F4_UCOSII\os_cpu.h
 .\route\uart_cfg.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdio.h
-.\route\uart_cfg.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdbool.h
 .\route\uart_cfg.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\string.h
 .\route\uart_cfg.o: ..\..\..\..\tools\tool.h
 .\route\uart_cfg.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h

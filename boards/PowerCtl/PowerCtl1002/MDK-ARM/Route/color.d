@@ -3,6 +3,7 @@
 .\route\color.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdlib.h
 .\route\color.o: ..\..\..\board_mod\color.h
 .\route\color.o: ..\..\..\..\tools\macro.h
+.\route\color.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdbool.h
 .\route\color.o: ..\..\..\..\chips\stm32f4xx\Driver\Inc\stm32f4xx_hal.h
 .\route\color.o: ../Inc/stm32f4xx_hal_conf.h
 .\route\color.o: ../Inc/mxconstants.h
@@ -45,7 +46,6 @@
 .\route\color.o: ..\..\..\..\kernel\F4_UCOSII\cpu_cfg.h
 .\route\color.o: ..\..\..\..\kernel\F4_UCOSII\os_cfg.h
 .\route\color.o: ..\..\..\..\kernel\F4_UCOSII\os_cpu.h
-.\route\color.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdbool.h
 .\route\color.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\string.h
 .\route\color.o: ..\..\..\..\tools\tool.h
 .\route\color.o: ..\..\Src\bus_cfg.h

@@ -1,6 +1,7 @@
 .\route\power_mod.o: ..\..\..\..\libraries\modules\power_mod.c
 .\route\power_mod.o: ..\..\..\..\libraries\modules\power_mod.h
 .\route\power_mod.o: ..\..\..\..\tools\macro.h
+.\route\power_mod.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdbool.h
 .\route\power_mod.o: ..\..\..\..\libraries\Bus\bus.h
 .\route\power_mod.o: ..\..\..\..\kernel\os_implement.h
 .\route\power_mod.o: ..\..\..\..\kernel\F4_UCOSII\ucos_ii.h
@@ -11,7 +12,6 @@
 .\route\power_mod.o: ..\..\..\..\kernel\F4_UCOSII\os_cfg.h
 .\route\power_mod.o: ..\..\..\..\kernel\F4_UCOSII\os_cpu.h
 .\route\power_mod.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdio.h
-.\route\power_mod.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdbool.h
 .\route\power_mod.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\string.h
 .\route\power_mod.o: ..\..\..\..\tools\tool.h
 .\route\power_mod.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h

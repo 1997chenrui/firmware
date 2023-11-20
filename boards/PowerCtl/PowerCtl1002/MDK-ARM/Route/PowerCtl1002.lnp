@@ -29,6 +29,7 @@
 ".\route\my_main.o"
 ".\route\my_callback.o"
 ".\route\pc_reboot.o"
+".\route\uart_config.o"
 ".\route\global_func_it.o"
 ".\route\async.o"
 ".\route\delayus.o"

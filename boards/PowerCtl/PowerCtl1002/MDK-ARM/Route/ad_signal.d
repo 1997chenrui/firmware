@@ -2,6 +2,7 @@
 .\route\ad_signal.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdlib.h
 .\route\ad_signal.o: ..\..\..\board_mod\ad_signal.h
 .\route\ad_signal.o: ..\..\..\..\tools\macro.h
+.\route\ad_signal.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdbool.h
 .\route\ad_signal.o: ..\..\..\..\libraries\Bus\bus.h
 .\route\ad_signal.o: ..\..\..\..\kernel\os_implement.h
 .\route\ad_signal.o: ..\..\..\..\kernel\F4_UCOSII\ucos_ii.h
@@ -12,7 +13,6 @@
 .\route\ad_signal.o: ..\..\..\..\kernel\F4_UCOSII\os_cfg.h
 .\route\ad_signal.o: ..\..\..\..\kernel\F4_UCOSII\os_cpu.h
 .\route\ad_signal.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdio.h
-.\route\ad_signal.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdbool.h
 .\route\ad_signal.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\string.h
 .\route\ad_signal.o: ..\..\..\..\tools\tool.h
 .\route\ad_signal.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h

@@ -50,16 +50,25 @@ static void FifoRead(u8 *buff, struct _fifo *fifo, u16 length)
 
 static void FifoWrite(u8 *buff, struct _fifo *fifo, u16 length)
 {
-    if(fifo->w_s + length > FIFO_SIZE_MAX-1)
-	{
-        memmove(fifo->buff + fifo->w_s, buff, FIFO_SIZE_MAX-1-fifo->w_s);
-        memmove(fifo->buff, buff + FIFO_SIZE_MAX-1-fifo->w_s, length -(FIFO_SIZE_MAX-1-fifo->w_s));
-        fifo->w_s = FIFO_SIZE_MAX-1-fifo->w_s;
-	}
-	else
+    if(fifo->size + length > FIFO_SIZE_MAX - 1)
     {
-        memmove(fifo->buff, buff, length);
-        fifo->w_s += length;
+        fifo->size = FIFO_SIZE_MAX - 1;
+        fifo->full = 1;      
+    }
+    else
+    {
+        if(fifo->w_s + length > FIFO_SIZE_MAX-1)
+        {
+            memmove(fifo->buff + fifo->w_s, buff, FIFO_SIZE_MAX-1-fifo->w_s);
+            memmove(fifo->buff, buff + FIFO_SIZE_MAX-1-fifo->w_s, length -(FIFO_SIZE_MAX-1-fifo->w_s));
+            fifo->w_s = FIFO_SIZE_MAX-1-fifo->w_s;
+        }
+        else
+        {
+            memmove(fifo->buff, buff, length);
+            fifo->w_s += length;
+        }
+        fifo->size += length;
     }
 }
 

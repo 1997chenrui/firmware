@@ -36,6 +36,7 @@
 .\route\io_thread_cfg.o: ..\..\..\..\chips\stm32f4xx\Driver\Inc\stm32f4xx_hal_tim_ex.h
 .\route\io_thread_cfg.o: ..\..\..\..\chips\stm32f4xx\Driver\Inc\stm32f4xx_hal_uart.h
 .\route\io_thread_cfg.o: ..\..\..\..\tools\macro.h
+.\route\io_thread_cfg.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdbool.h
 .\route\io_thread_cfg.o: ..\..\..\..\libraries\Bus\bus.h
 .\route\io_thread_cfg.o: ..\..\..\..\kernel\os_implement.h
 .\route\io_thread_cfg.o: ..\..\..\..\kernel\F4_UCOSII\ucos_ii.h
@@ -45,7 +46,6 @@
 .\route\io_thread_cfg.o: ..\..\..\..\kernel\F4_UCOSII\cpu_cfg.h
 .\route\io_thread_cfg.o: ..\..\..\..\kernel\F4_UCOSII\os_cfg.h
 .\route\io_thread_cfg.o: ..\..\..\..\kernel\F4_UCOSII\os_cpu.h
-.\route\io_thread_cfg.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdbool.h
 .\route\io_thread_cfg.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\string.h
 .\route\io_thread_cfg.o: ..\..\..\..\tools\tool.h
 .\route\io_thread_cfg.o: ..\..\Src\bus_cfg.h

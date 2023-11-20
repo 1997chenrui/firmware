@@ -2,6 +2,7 @@
 .\route\pc_reboot.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdlib.h
 .\route\pc_reboot.o: ..\Src\pc_reboot.h
 .\route\pc_reboot.o: ..\..\..\..\tools\macro.h
+.\route\pc_reboot.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdbool.h
 .\route\pc_reboot.o: ..\..\..\..\libraries\Bus\bus.h
 .\route\pc_reboot.o: ..\..\..\..\kernel\os_implement.h
 .\route\pc_reboot.o: ..\..\..\..\kernel\F4_UCOSII\ucos_ii.h
@@ -12,7 +13,6 @@
 .\route\pc_reboot.o: ..\..\..\..\kernel\F4_UCOSII\os_cfg.h
 .\route\pc_reboot.o: ..\..\..\..\kernel\F4_UCOSII\os_cpu.h
 .\route\pc_reboot.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdio.h
-.\route\pc_reboot.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdbool.h
 .\route\pc_reboot.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\string.h
 .\route\pc_reboot.o: ..\..\..\..\tools\tool.h
 .\route\pc_reboot.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h

@@ -720,7 +720,8 @@ F (..\Src\uart_cfg.c)(0x65488A3E)(--c99 -c --cpu Cortex-M4 -g -O1 -Otime --apcs=
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdlib.h)(0x5E8E3CC2)
 I (../Inc/uart_cfg.h)(0x65488A3E)
 I (..\..\Src\uart_thread.h)(0x65488A3E)
-I (..\..\..\..\tools\macro.h)(0x65488A3E)
+I (..\..\..\..\tools\macro.h)(0x655778AA)
+I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (..\..\..\..\libraries\Bus\bus.h)(0x65488A3E)
 I (..\..\..\..\kernel\os_implement.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\ucos_ii.h)(0x65488A3E)
@@ -731,7 +732,6 @@ I (..\..\..\..\kernel\F4_UCOSII\cpu_cfg.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\os_cfg.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\os_cpu.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdio.h)(0x5E8E3CC2)
-I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\string.h)(0x5E8E3CC2)
 I (..\..\..\..\tools\tool.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdint.h)(0x5E8E3CC2)
@@ -817,7 +817,7 @@ I (..\..\..\..\kernel\F4_UCOSII\os_cpu.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\string.h)(0x5E8E3CC2)
 I (..\..\..\..\tools\tool.h)(0x65488A3E)
-I (..\..\..\..\tools\macro.h)(0x65488A3E)
+I (..\..\..\..\tools\macro.h)(0x655778AA)
 I (..\..\Src\bus_cfg.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdlib.h)(0x5E8E3CC2)
 F (..\Inc\project_cfg.h)(0x65488A3E)()
@@ -825,7 +825,8 @@ F (..\Src\color_cfg.c)(0x65488A3E)(--c99 -c --cpu Cortex-M4 -g -O1 -Otime --apcs
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdlib.h)(0x5E8E3CC2)
 I (../Inc/color_cfg.h)(0x65488A3E)
 I (..\..\Src\uart_thread.h)(0x65488A3E)
-I (..\..\..\..\tools\macro.h)(0x65488A3E)
+I (..\..\..\..\tools\macro.h)(0x655778AA)
+I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (..\..\..\..\libraries\Bus\bus.h)(0x65488A3E)
 I (..\..\..\..\kernel\os_implement.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\ucos_ii.h)(0x65488A3E)
@@ -836,7 +837,6 @@ I (..\..\..\..\kernel\F4_UCOSII\cpu_cfg.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\os_cfg.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\os_cpu.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdio.h)(0x5E8E3CC2)
-I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\string.h)(0x5E8E3CC2)
 I (..\..\..\..\tools\tool.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdint.h)(0x5E8E3CC2)
@@ -911,7 +911,8 @@ I (..\..\..\..\chips\stm32f4xx\Driver\Inc\stm32f4xx_hal_spi.h)(0x65488A3E)
 I (..\..\..\..\chips\stm32f4xx\Driver\Inc\stm32f4xx_hal_tim.h)(0x65488A3E)
 I (..\..\..\..\chips\stm32f4xx\Driver\Inc\stm32f4xx_hal_tim_ex.h)(0x65488A3E)
 I (..\..\..\..\chips\stm32f4xx\Driver\Inc\stm32f4xx_hal_uart.h)(0x65488A3E)
-I (..\..\..\..\tools\macro.h)(0x65488A3E)
+I (..\..\..\..\tools\macro.h)(0x655778AA)
+I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (..\..\..\..\libraries\Bus\bus.h)(0x65488A3E)
 I (..\..\..\..\kernel\os_implement.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\ucos_ii.h)(0x65488A3E)
@@ -921,7 +922,6 @@ I (..\..\..\..\kernel\F4_UCOSII\cpu_def.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\cpu_cfg.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\os_cfg.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\os_cpu.h)(0x65488A3E)
-I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\string.h)(0x5E8E3CC2)
 I (..\..\..\..\tools\tool.h)(0x65488A3E)
 I (..\..\Src\bus_cfg.h)(0x65488A3E)
@@ -929,7 +929,8 @@ I (..\..\..\..\libraries\modules\io_mod.h)(0x65488A3E)
 F (..\Src\ad_signal_cfg.c)(0x65488A3E)(--c99 -c --cpu Cortex-M4 -g -O1 -Otime --apcs=interwork --split_sections -I ../Inc -I ..\..\..\..\chips\stm32f4xx\Driver\Inc -I ..\..\..\..\chips\stm32f4xx\Inc\Legacy -I ..\..\..\..\chips\stm32f4xx\CMSISDevice\Inc -I ..\..\..\..\arch\cortex-m\CMSIS\Include -I ..\..\..\..\libraries -I ..\..\..\..\tools -I ..\..\..\..\libraries\Protocols -I ..\..\..\..\libraries\Driver -I ..\..\..\..\libraries\Bus -I ..\..\Src -I ..\..\..\..\kernel\F4_UCOSII -I ..\..\..\..\kernel -I ..\..\hardware -I ..\..\..\..\libraries\modules -I ..\..\..\..\libraries\modules\itf -I ..\..\..\..\libraries\drivers -I ..\..\..\board_mod -I ..\..\..\..\chips\stm32f4xx\StdDriver\Inc --C99 --no-multibyte-chars-I.\RTE\_PowerCtl1002-ID:\keil\ARM\CMSIS\5.9.0\CMSIS\Core\Include-ID:\keil\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="538" -D_RTE_ -DSTM32F407xx -D_RTE_ -DUSE_HAL_DRIVER -DSTM32F407xx -DPLATFORM_UCOS2 -DVECT_TAB_OFFSET="0x10000"-o .\route\ad_signal_cfg.o --omf_browse .\route\ad_signal_cfg.crf --depend .\route\ad_signal_cfg.d)
 I (../Inc/ad_signal_cfg.h)(0x65488A3E)
 I (..\..\..\board_mod\ad_signal.h)(0x65488A3E)
-I (..\..\..\..\tools\macro.h)(0x65488A3E)
+I (..\..\..\..\tools\macro.h)(0x655778AA)
+I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (..\..\..\..\libraries\Bus\bus.h)(0x65488A3E)
 I (..\..\..\..\kernel\os_implement.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\ucos_ii.h)(0x65488A3E)
@@ -940,7 +941,6 @@ I (..\..\..\..\kernel\F4_UCOSII\cpu_cfg.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\os_cfg.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\os_cpu.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdio.h)(0x5E8E3CC2)
-I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\string.h)(0x5E8E3CC2)
 I (..\..\..\..\tools\tool.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdint.h)(0x5E8E3CC2)
@@ -1025,7 +1025,7 @@ I (..\..\..\..\kernel\F4_UCOSII\os_cpu.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\string.h)(0x5E8E3CC2)
 I (..\..\..\..\tools\tool.h)(0x65488A3E)
-I (..\..\..\..\tools\macro.h)(0x65488A3E)
+I (..\..\..\..\tools\macro.h)(0x655778AA)
 I (..\..\Src\bus_cfg.h)(0x65488A3E)
 I (..\..\Src\my_main.h)(0x65488A3E)
 I (..\..\..\..\libraries\Protocols\protocols.h)(0x65488A3E)
@@ -1068,7 +1068,7 @@ I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdio.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\string.h)(0x5E8E3CC2)
 I (..\..\..\..\tools\tool.h)(0x65488A3E)
-I (..\..\..\..\tools\macro.h)(0x65488A3E)
+I (..\..\..\..\tools\macro.h)(0x655778AA)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdint.h)(0x5E8E3CC2)
 I (..\..\Src\bus_cfg.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdlib.h)(0x5E8E3CC2)
@@ -1123,7 +1123,8 @@ I (..\..\..\board_mod\ad_signal.h)(0x65488A3E)
 F (..\Src\pc_reboot.c)(0x65488A3E)(--c99 -c --cpu Cortex-M4 -g -O1 -Otime --apcs=interwork --split_sections -I ../Inc -I ..\..\..\..\chips\stm32f4xx\Driver\Inc -I ..\..\..\..\chips\stm32f4xx\Inc\Legacy -I ..\..\..\..\chips\stm32f4xx\CMSISDevice\Inc -I ..\..\..\..\arch\cortex-m\CMSIS\Include -I ..\..\..\..\libraries -I ..\..\..\..\tools -I ..\..\..\..\libraries\Protocols -I ..\..\..\..\libraries\Driver -I ..\..\..\..\libraries\Bus -I ..\..\Src -I ..\..\..\..\kernel\F4_UCOSII -I ..\..\..\..\kernel -I ..\..\hardware -I ..\..\..\..\libraries\modules -I ..\..\..\..\libraries\modules\itf -I ..\..\..\..\libraries\drivers -I ..\..\..\board_mod -I ..\..\..\..\chips\stm32f4xx\StdDriver\Inc --C99 --no-multibyte-chars-I.\RTE\_PowerCtl1002-ID:\keil\ARM\CMSIS\5.9.0\CMSIS\Core\Include-ID:\keil\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="538" -D_RTE_ -DSTM32F407xx -D_RTE_ -DUSE_HAL_DRIVER -DSTM32F407xx -DPLATFORM_UCOS2 -DVECT_TAB_OFFSET="0x10000"-o .\route\pc_reboot.o --omf_browse .\route\pc_reboot.crf --depend .\route\pc_reboot.d)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdlib.h)(0x5E8E3CC2)
 I (..\Src\pc_reboot.h)(0x65488A3E)
-I (..\..\..\..\tools\macro.h)(0x65488A3E)
+I (..\..\..\..\tools\macro.h)(0x655778AA)
+I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (..\..\..\..\libraries\Bus\bus.h)(0x65488A3E)
 I (..\..\..\..\kernel\os_implement.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\ucos_ii.h)(0x65488A3E)
@@ -1134,7 +1135,6 @@ I (..\..\..\..\kernel\F4_UCOSII\cpu_cfg.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\os_cfg.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\os_cpu.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdio.h)(0x5E8E3CC2)
-I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\string.h)(0x5E8E3CC2)
 I (..\..\..\..\tools\tool.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdint.h)(0x5E8E3CC2)
@@ -1175,6 +1175,45 @@ I (..\..\..\..\tools\delayus.h)(0x65488A3E)
 I (../Inc/project_cfg.h)(0x65488A3E)
 I (..\..\..\board_mod\color.h)(0x65488A3E)
 I (..\..\..\..\libraries\drivers\ws2812b.h)(0x65488A3E)
+F (..\Src\uart_config.c)(0x655B3F8B)(--c99 -c --cpu Cortex-M4 -g -O1 -Otime --apcs=interwork --split_sections -I ../Inc -I ..\..\..\..\chips\stm32f4xx\Driver\Inc -I ..\..\..\..\chips\stm32f4xx\Inc\Legacy -I ..\..\..\..\chips\stm32f4xx\CMSISDevice\Inc -I ..\..\..\..\arch\cortex-m\CMSIS\Include -I ..\..\..\..\libraries -I ..\..\..\..\tools -I ..\..\..\..\libraries\Protocols -I ..\..\..\..\libraries\Driver -I ..\..\..\..\libraries\Bus -I ..\..\Src -I ..\..\..\..\kernel\F4_UCOSII -I ..\..\..\..\kernel -I ..\..\hardware -I ..\..\..\..\libraries\modules -I ..\..\..\..\libraries\modules\itf -I ..\..\..\..\libraries\drivers -I ..\..\..\board_mod -I ..\..\..\..\chips\stm32f4xx\StdDriver\Inc --C99 --no-multibyte-chars-I.\RTE\_PowerCtl1002-ID:\keil\ARM\CMSIS\5.9.0\CMSIS\Core\Include-ID:\keil\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="538" -D_RTE_ -DSTM32F407xx -D_RTE_ -DUSE_HAL_DRIVER -DSTM32F407xx -DPLATFORM_UCOS2 -DVECT_TAB_OFFSET="0x10000"-o .\route\uart_config.o --omf_browse .\route\uart_config.crf --depend .\route\uart_config.d)
+I (../Inc/uart_config.h)(0x65577410)
+I (..\..\..\..\tools\macro.h)(0x655778AA)
+I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
+I (D:\keil\ARM\ARM_Compiler_5.06u7\include\string.h)(0x5E8E3CC2)
+I (..\..\..\..\chips\stm32f4xx\Driver\Inc\stm32f4xx_hal.h)(0x65488A3E)
+I (../Inc/stm32f4xx_hal_conf.h)(0x65488A3E)
+I (../Inc/mxconstants.h)(0x65488A3E)
+I (..\..\..\..\chips\stm32f4xx\Driver\Inc\stm32f4xx_hal_rcc.h)(0x65488A3E)
+I (..\..\..\..\chips\stm32f4xx\Driver\Inc\stm32f4xx_hal_def.h)(0x65488A3E)
+I (..\..\..\..\chips\stm32f4xx\CMSISDevice\Inc\stm32f4xx.h)(0x65488A3E)
+I (..\..\..\..\chips\stm32f4xx\CMSISDevice\Inc\stm32f407xx.h)(0x65488A3E)
+I (..\..\..\..\arch\cortex-m\CMSIS\Include\core_cm4.h)(0x65488A3E)
+I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdint.h)(0x5E8E3CC2)
+I (..\..\..\..\arch\cortex-m\CMSIS\Include\core_cmInstr.h)(0x65488A3E)
+I (..\..\..\..\arch\cortex-m\CMSIS\Include\cmsis_armcc.h)(0x65488A3E)
+I (..\..\..\..\arch\cortex-m\CMSIS\Include\core_cmFunc.h)(0x65488A3E)
+I (..\..\..\..\arch\cortex-m\CMSIS\Include\core_cmSimd.h)(0x65488A3E)
+I (..\..\..\..\chips\stm32f4xx\CMSISDevice\Inc\system_stm32f4xx.h)(0x65488A3E)
+I (..\..\..\..\chips\stm32f4xx\Driver\Inc\Legacy/stm32_hal_legacy.h)(0x65488A3E)
+I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdio.h)(0x5E8E3CC2)
+I (..\..\..\..\chips\stm32f4xx\Driver\Inc\stm32f4xx_hal_rcc_ex.h)(0x65488A3E)
+I (..\..\..\..\chips\stm32f4xx\Driver\Inc\stm32f4xx_hal_gpio.h)(0x65488A3E)
+I (..\..\..\..\chips\stm32f4xx\Driver\Inc\stm32f4xx_hal_gpio_ex.h)(0x65488A3E)
+I (..\..\..\..\chips\stm32f4xx\Driver\Inc\stm32f4xx_hal_dma.h)(0x65488A3E)
+I (..\..\..\..\chips\stm32f4xx\Driver\Inc\stm32f4xx_hal_dma_ex.h)(0x65488A3E)
+I (..\..\..\..\chips\stm32f4xx\Driver\Inc\stm32f4xx_hal_cortex.h)(0x65488A3E)
+I (..\..\..\..\chips\stm32f4xx\Driver\Inc\stm32f4xx_hal_dac.h)(0x65488A3E)
+I (..\..\..\..\chips\stm32f4xx\Driver\Inc\stm32f4xx_hal_dac_ex.h)(0x65488A3E)
+I (..\..\..\..\chips\stm32f4xx\Driver\Inc\stm32f4xx_hal_flash.h)(0x65488A3E)
+I (..\..\..\..\chips\stm32f4xx\Driver\Inc\stm32f4xx_hal_flash_ex.h)(0x65488A3E)
+I (..\..\..\..\chips\stm32f4xx\Driver\Inc\stm32f4xx_hal_flash_ramfunc.h)(0x65488A3E)
+I (..\..\..\..\chips\stm32f4xx\Driver\Inc\stm32f4xx_hal_pwr.h)(0x65488A3E)
+I (..\..\..\..\chips\stm32f4xx\Driver\Inc\stm32f4xx_hal_pwr_ex.h)(0x65488A3E)
+I (..\..\..\..\chips\stm32f4xx\Driver\Inc\stm32f4xx_hal_spi.h)(0x65488A3E)
+I (..\..\..\..\chips\stm32f4xx\Driver\Inc\stm32f4xx_hal_tim.h)(0x65488A3E)
+I (..\..\..\..\chips\stm32f4xx\Driver\Inc\stm32f4xx_hal_tim_ex.h)(0x65488A3E)
+I (..\..\..\..\chips\stm32f4xx\Driver\Inc\stm32f4xx_hal_uart.h)(0x65488A3E)
+I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdlib.h)(0x5E8E3CC2)
 F (..\..\Src\global_func_it.c)(0x65488A3E)(--c99 -c --cpu Cortex-M4 -g -O1 -Otime --apcs=interwork --split_sections -I ../Inc -I ..\..\..\..\chips\stm32f4xx\Driver\Inc -I ..\..\..\..\chips\stm32f4xx\Inc\Legacy -I ..\..\..\..\chips\stm32f4xx\CMSISDevice\Inc -I ..\..\..\..\arch\cortex-m\CMSIS\Include -I ..\..\..\..\libraries -I ..\..\..\..\tools -I ..\..\..\..\libraries\Protocols -I ..\..\..\..\libraries\Driver -I ..\..\..\..\libraries\Bus -I ..\..\Src -I ..\..\..\..\kernel\F4_UCOSII -I ..\..\..\..\kernel -I ..\..\hardware -I ..\..\..\..\libraries\modules -I ..\..\..\..\libraries\modules\itf -I ..\..\..\..\libraries\drivers -I ..\..\..\board_mod -I ..\..\..\..\chips\stm32f4xx\StdDriver\Inc --C99 --no-multibyte-chars-I.\RTE\_PowerCtl1002-ID:\keil\ARM\CMSIS\5.9.0\CMSIS\Core\Include-ID:\keil\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="538" -D_RTE_ -DSTM32F407xx -D_RTE_ -DUSE_HAL_DRIVER -DSTM32F407xx -DPLATFORM_UCOS2 -DVECT_TAB_OFFSET="0x10000"-o .\route\global_func_it.o --omf_browse .\route\global_func_it.crf --depend .\route\global_func_it.d)
 I (..\..\..\..\tools\uart_byte_to_frame.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdio.h)(0x5E8E3CC2)
@@ -1223,7 +1262,7 @@ I (..\..\..\..\kernel\F4_UCOSII\os_cpu.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\string.h)(0x5E8E3CC2)
 I (..\..\..\..\tools\tool.h)(0x65488A3E)
-I (..\..\..\..\tools\macro.h)(0x65488A3E)
+I (..\..\..\..\tools\macro.h)(0x655778AA)
 I (..\..\Src\bus_cfg.h)(0x65488A3E)
 I (..\..\..\..\libraries\Bus\bus_uart3_f4_hal.h)(0x65488A3E)
 I (..\..\..\..\libraries\errCode.h)(0x65488A3E)
@@ -1261,7 +1300,8 @@ I (..\..\..\..\kernel\F4_UCOSII\os_cfg.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\os_cpu.h)(0x65488A3E)
 F (..\..\..\board_mod\power.c)(0x65488A3E)(--c99 -c --cpu Cortex-M4 -g -O1 -Otime --apcs=interwork --split_sections -I ../Inc -I ..\..\..\..\chips\stm32f4xx\Driver\Inc -I ..\..\..\..\chips\stm32f4xx\Inc\Legacy -I ..\..\..\..\chips\stm32f4xx\CMSISDevice\Inc -I ..\..\..\..\arch\cortex-m\CMSIS\Include -I ..\..\..\..\libraries -I ..\..\..\..\tools -I ..\..\..\..\libraries\Protocols -I ..\..\..\..\libraries\Driver -I ..\..\..\..\libraries\Bus -I ..\..\Src -I ..\..\..\..\kernel\F4_UCOSII -I ..\..\..\..\kernel -I ..\..\hardware -I ..\..\..\..\libraries\modules -I ..\..\..\..\libraries\modules\itf -I ..\..\..\..\libraries\drivers -I ..\..\..\board_mod -I ..\..\..\..\chips\stm32f4xx\StdDriver\Inc --C99 --no-multibyte-chars-I.\RTE\_PowerCtl1002-ID:\keil\ARM\CMSIS\5.9.0\CMSIS\Core\Include-ID:\keil\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="538" -D_RTE_ -DSTM32F407xx -D_RTE_ -DUSE_HAL_DRIVER -DSTM32F407xx -DPLATFORM_UCOS2 -DVECT_TAB_OFFSET="0x10000"-o .\route\power.o --omf_browse .\route\power.crf --depend .\route\power.d)
 I (..\..\..\board_mod\power.h)(0x65488A3E)
-I (..\..\..\..\tools\macro.h)(0x65488A3E)
+I (..\..\..\..\tools\macro.h)(0x655778AA)
+I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (..\..\..\..\libraries\Bus\bus.h)(0x65488A3E)
 I (..\..\..\..\kernel\os_implement.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\ucos_ii.h)(0x65488A3E)
@@ -1272,7 +1312,6 @@ I (..\..\..\..\kernel\F4_UCOSII\cpu_cfg.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\os_cfg.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\os_cpu.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdio.h)(0x5E8E3CC2)
-I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\string.h)(0x5E8E3CC2)
 I (..\..\..\..\tools\tool.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdint.h)(0x5E8E3CC2)
@@ -1315,7 +1354,8 @@ I (..\..\..\..\libraries\drivers\ws2812b.h)(0x65488A3E)
 I (..\..\..\..\libraries\modules\itf\itf_00000040.h)(0x65488A3E)
 F (..\..\..\board_mod\io_thread.c)(0x65488A3E)(--c99 -c --cpu Cortex-M4 -g -O1 -Otime --apcs=interwork --split_sections -I ../Inc -I ..\..\..\..\chips\stm32f4xx\Driver\Inc -I ..\..\..\..\chips\stm32f4xx\Inc\Legacy -I ..\..\..\..\chips\stm32f4xx\CMSISDevice\Inc -I ..\..\..\..\arch\cortex-m\CMSIS\Include -I ..\..\..\..\libraries -I ..\..\..\..\tools -I ..\..\..\..\libraries\Protocols -I ..\..\..\..\libraries\Driver -I ..\..\..\..\libraries\Bus -I ..\..\Src -I ..\..\..\..\kernel\F4_UCOSII -I ..\..\..\..\kernel -I ..\..\hardware -I ..\..\..\..\libraries\modules -I ..\..\..\..\libraries\modules\itf -I ..\..\..\..\libraries\drivers -I ..\..\..\board_mod -I ..\..\..\..\chips\stm32f4xx\StdDriver\Inc --C99 --no-multibyte-chars-I.\RTE\_PowerCtl1002-ID:\keil\ARM\CMSIS\5.9.0\CMSIS\Core\Include-ID:\keil\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="538" -D_RTE_ -DSTM32F407xx -D_RTE_ -DUSE_HAL_DRIVER -DSTM32F407xx -DPLATFORM_UCOS2 -DVECT_TAB_OFFSET="0x10000"-o .\route\io_thread.o --omf_browse .\route\io_thread.crf --depend .\route\io_thread.d)
 I (..\..\..\..\libraries\modules\io_mod.h)(0x65488A3E)
-I (..\..\..\..\tools\macro.h)(0x65488A3E)
+I (..\..\..\..\tools\macro.h)(0x655778AA)
+I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (..\..\..\..\libraries\modules\itf\itf_00020000.h)(0x65488A3E)
 I (..\..\..\..\libraries\Bus\bus.h)(0x65488A3E)
 I (..\..\..\..\kernel\os_implement.h)(0x65488A3E)
@@ -1327,7 +1367,6 @@ I (..\..\..\..\kernel\F4_UCOSII\cpu_cfg.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\os_cfg.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\os_cpu.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdio.h)(0x5E8E3CC2)
-I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\string.h)(0x5E8E3CC2)
 I (..\..\..\..\tools\tool.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdint.h)(0x5E8E3CC2)
@@ -1374,7 +1413,8 @@ I (..\..\..\..\libraries\drivers\ws2812b.h)(0x65488A3E)
 I (../Inc/io_thread_cfg.h)(0x65488A3E)
 F (..\..\Src\uart_thread.c)(0x65488A3E)(--c99 -c --cpu Cortex-M4 -g -O1 -Otime --apcs=interwork --split_sections -I ../Inc -I ..\..\..\..\chips\stm32f4xx\Driver\Inc -I ..\..\..\..\chips\stm32f4xx\Inc\Legacy -I ..\..\..\..\chips\stm32f4xx\CMSISDevice\Inc -I ..\..\..\..\arch\cortex-m\CMSIS\Include -I ..\..\..\..\libraries -I ..\..\..\..\tools -I ..\..\..\..\libraries\Protocols -I ..\..\..\..\libraries\Driver -I ..\..\..\..\libraries\Bus -I ..\..\Src -I ..\..\..\..\kernel\F4_UCOSII -I ..\..\..\..\kernel -I ..\..\hardware -I ..\..\..\..\libraries\modules -I ..\..\..\..\libraries\modules\itf -I ..\..\..\..\libraries\drivers -I ..\..\..\board_mod -I ..\..\..\..\chips\stm32f4xx\StdDriver\Inc --C99 --no-multibyte-chars-I.\RTE\_PowerCtl1002-ID:\keil\ARM\CMSIS\5.9.0\CMSIS\Core\Include-ID:\keil\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="538" -D_RTE_ -DSTM32F407xx -D_RTE_ -DUSE_HAL_DRIVER -DSTM32F407xx -DPLATFORM_UCOS2 -DVECT_TAB_OFFSET="0x10000"-o .\route\uart_thread.o --omf_browse .\route\uart_thread.crf --depend .\route\uart_thread.d)
 I (..\..\Src\uart_thread.h)(0x65488A3E)
-I (..\..\..\..\tools\macro.h)(0x65488A3E)
+I (..\..\..\..\tools\macro.h)(0x655778AA)
+I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (..\..\..\..\libraries\Bus\bus.h)(0x65488A3E)
 I (..\..\..\..\kernel\os_implement.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\ucos_ii.h)(0x65488A3E)
@@ -1385,7 +1425,6 @@ I (..\..\..\..\kernel\F4_UCOSII\cpu_cfg.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\os_cfg.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\os_cpu.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdio.h)(0x5E8E3CC2)
-I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\string.h)(0x5E8E3CC2)
 I (..\..\..\..\tools\tool.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdint.h)(0x5E8E3CC2)
@@ -1428,7 +1467,8 @@ F (..\..\..\board_mod\color.c)(0x65488A3E)(--c99 -c --cpu Cortex-M4 -g -O1 -Otim
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdio.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdlib.h)(0x5E8E3CC2)
 I (..\..\..\board_mod\color.h)(0x65488A3E)
-I (..\..\..\..\tools\macro.h)(0x65488A3E)
+I (..\..\..\..\tools\macro.h)(0x655778AA)
+I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (..\..\..\..\chips\stm32f4xx\Driver\Inc\stm32f4xx_hal.h)(0x65488A3E)
 I (../Inc/stm32f4xx_hal_conf.h)(0x65488A3E)
 I (../Inc/mxconstants.h)(0x65488A3E)
@@ -1470,7 +1510,6 @@ I (..\..\..\..\kernel\F4_UCOSII\cpu_def.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\cpu_cfg.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\os_cfg.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\os_cpu.h)(0x65488A3E)
-I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\string.h)(0x5E8E3CC2)
 I (..\..\..\..\tools\tool.h)(0x65488A3E)
 I (..\..\Src\bus_cfg.h)(0x65488A3E)
@@ -1484,7 +1523,8 @@ I (..\..\..\..\libraries\modules\uart_transpond.h)(0x65488A3E)
 F (..\..\..\board_mod\ad_signal.c)(0x65488A3E)(--c99 -c --cpu Cortex-M4 -g -O1 -Otime --apcs=interwork --split_sections -I ../Inc -I ..\..\..\..\chips\stm32f4xx\Driver\Inc -I ..\..\..\..\chips\stm32f4xx\Inc\Legacy -I ..\..\..\..\chips\stm32f4xx\CMSISDevice\Inc -I ..\..\..\..\arch\cortex-m\CMSIS\Include -I ..\..\..\..\libraries -I ..\..\..\..\tools -I ..\..\..\..\libraries\Protocols -I ..\..\..\..\libraries\Driver -I ..\..\..\..\libraries\Bus -I ..\..\Src -I ..\..\..\..\kernel\F4_UCOSII -I ..\..\..\..\kernel -I ..\..\hardware -I ..\..\..\..\libraries\modules -I ..\..\..\..\libraries\modules\itf -I ..\..\..\..\libraries\drivers -I ..\..\..\board_mod -I ..\..\..\..\chips\stm32f4xx\StdDriver\Inc --C99 --no-multibyte-chars-I.\RTE\_PowerCtl1002-ID:\keil\ARM\CMSIS\5.9.0\CMSIS\Core\Include-ID:\keil\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="538" -D_RTE_ -DSTM32F407xx -D_RTE_ -DUSE_HAL_DRIVER -DSTM32F407xx -DPLATFORM_UCOS2 -DVECT_TAB_OFFSET="0x10000"-o .\route\ad_signal.o --omf_browse .\route\ad_signal.crf --depend .\route\ad_signal.d)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdlib.h)(0x5E8E3CC2)
 I (..\..\..\board_mod\ad_signal.h)(0x65488A3E)
-I (..\..\..\..\tools\macro.h)(0x65488A3E)
+I (..\..\..\..\tools\macro.h)(0x655778AA)
+I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (..\..\..\..\libraries\Bus\bus.h)(0x65488A3E)
 I (..\..\..\..\kernel\os_implement.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\ucos_ii.h)(0x65488A3E)
@@ -1495,7 +1535,6 @@ I (..\..\..\..\kernel\F4_UCOSII\cpu_cfg.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\os_cfg.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\os_cpu.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdio.h)(0x5E8E3CC2)
-I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\string.h)(0x5E8E3CC2)
 I (..\..\..\..\tools\tool.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdint.h)(0x5E8E3CC2)
@@ -1555,7 +1594,7 @@ I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdio.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\string.h)(0x5E8E3CC2)
 I (..\..\..\..\tools\tool.h)(0x65488A3E)
-I (..\..\..\..\tools\macro.h)(0x65488A3E)
+I (..\..\..\..\tools\macro.h)(0x655778AA)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdint.h)(0x5E8E3CC2)
 I (..\..\Src\bus_cfg.h)(0x65488A3E)
 I (..\..\..\..\libraries\cmd.h)(0x65488A3E)
@@ -1576,7 +1615,7 @@ I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdio.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\string.h)(0x5E8E3CC2)
 I (..\..\..\..\tools\tool.h)(0x65488A3E)
-I (..\..\..\..\tools\macro.h)(0x65488A3E)
+I (..\..\..\..\tools\macro.h)(0x655778AA)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdint.h)(0x5E8E3CC2)
 I (..\..\Src\bus_cfg.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdlib.h)(0x5E8E3CC2)
@@ -1594,7 +1633,7 @@ I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdio.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\string.h)(0x5E8E3CC2)
 I (..\..\..\..\tools\tool.h)(0x65488A3E)
-I (..\..\..\..\tools\macro.h)(0x65488A3E)
+I (..\..\..\..\tools\macro.h)(0x655778AA)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdint.h)(0x5E8E3CC2)
 I (..\..\Src\bus_cfg.h)(0x65488A3E)
 I (..\..\..\..\tools\data_struct.h)(0x65488A3E)
@@ -1648,7 +1687,7 @@ F (..\..\..\..\tools\uart_byte_to_frame.c)(0x65488A3E)(--c99 -c --cpu Cortex-M4 
 I (..\..\..\..\tools\uart_byte_to_frame.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdio.h)(0x5E8E3CC2)
 I (..\..\..\..\tools\Tool.h)(0x65488A3E)
-I (..\..\..\..\tools\macro.h)(0x65488A3E)
+I (..\..\..\..\tools\macro.h)(0x655778AA)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdint.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\string.h)(0x5E8E3CC2)
@@ -1668,7 +1707,7 @@ I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdio.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\string.h)(0x5E8E3CC2)
 I (..\..\..\..\tools\tool.h)(0x65488A3E)
-I (..\..\..\..\tools\macro.h)(0x65488A3E)
+I (..\..\..\..\tools\macro.h)(0x655778AA)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdint.h)(0x5E8E3CC2)
 I (..\..\Src\bus_cfg.h)(0x65488A3E)
 I (..\..\..\..\chips\stm32f4xx\Driver\Inc\stm32f4xx_hal.h)(0x65488A3E)
@@ -1717,7 +1756,7 @@ I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdio.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\string.h)(0x5E8E3CC2)
 I (..\..\..\..\tools\tool.h)(0x65488A3E)
-I (..\..\..\..\tools\macro.h)(0x65488A3E)
+I (..\..\..\..\tools\macro.h)(0x655778AA)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdint.h)(0x5E8E3CC2)
 I (..\..\Src\bus_cfg.h)(0x65488A3E)
 I (..\..\..\..\libraries\cmd.h)(0x65488A3E)
@@ -1774,7 +1813,7 @@ I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdio.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\string.h)(0x5E8E3CC2)
 I (..\..\..\..\tools\tool.h)(0x65488A3E)
-I (..\..\..\..\tools\macro.h)(0x65488A3E)
+I (..\..\..\..\tools\macro.h)(0x655778AA)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdint.h)(0x5E8E3CC2)
 I (..\..\Src\bus_cfg.h)(0x65488A3E)
 I (..\..\..\..\libraries\ErrCode.h)(0x65488A3E)
@@ -1815,7 +1854,8 @@ I (..\..\..\..\chips\stm32f4xx\Driver\Inc\stm32f4xx_hal_tim_ex.h)(0x65488A3E)
 I (..\..\..\..\chips\stm32f4xx\Driver\Inc\stm32f4xx_hal_uart.h)(0x65488A3E)
 F (..\..\..\..\libraries\modules\power_mod.c)(0x65488A3E)(--c99 -c --cpu Cortex-M4 -g -O1 -Otime --apcs=interwork --split_sections -I ../Inc -I ..\..\..\..\chips\stm32f4xx\Driver\Inc -I ..\..\..\..\chips\stm32f4xx\Inc\Legacy -I ..\..\..\..\chips\stm32f4xx\CMSISDevice\Inc -I ..\..\..\..\arch\cortex-m\CMSIS\Include -I ..\..\..\..\libraries -I ..\..\..\..\tools -I ..\..\..\..\libraries\Protocols -I ..\..\..\..\libraries\Driver -I ..\..\..\..\libraries\Bus -I ..\..\Src -I ..\..\..\..\kernel\F4_UCOSII -I ..\..\..\..\kernel -I ..\..\hardware -I ..\..\..\..\libraries\modules -I ..\..\..\..\libraries\modules\itf -I ..\..\..\..\libraries\drivers -I ..\..\..\board_mod -I ..\..\..\..\chips\stm32f4xx\StdDriver\Inc --C99 --no-multibyte-chars-I.\RTE\_PowerCtl1002-ID:\keil\ARM\CMSIS\5.9.0\CMSIS\Core\Include-ID:\keil\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="538" -D_RTE_ -DSTM32F407xx -D_RTE_ -DUSE_HAL_DRIVER -DSTM32F407xx -DPLATFORM_UCOS2 -DVECT_TAB_OFFSET="0x10000"-o .\route\power_mod.o --omf_browse .\route\power_mod.crf --depend .\route\power_mod.d)
 I (..\..\..\..\libraries\modules\power_mod.h)(0x65488A3E)
-I (..\..\..\..\tools\macro.h)(0x65488A3E)
+I (..\..\..\..\tools\macro.h)(0x655778AA)
+I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (..\..\..\..\libraries\Bus\bus.h)(0x65488A3E)
 I (..\..\..\..\kernel\os_implement.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\ucos_ii.h)(0x65488A3E)
@@ -1826,7 +1866,6 @@ I (..\..\..\..\kernel\F4_UCOSII\cpu_cfg.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\os_cfg.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\os_cpu.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdio.h)(0x5E8E3CC2)
-I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\string.h)(0x5E8E3CC2)
 I (..\..\..\..\tools\tool.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdint.h)(0x5E8E3CC2)
@@ -1867,7 +1906,8 @@ I (..\..\..\..\chips\stm32f4xx\Driver\Inc\stm32f4xx_hal_uart.h)(0x65488A3E)
 I (..\..\..\..\libraries\drivers\ws2812b.h)(0x65488A3E)
 F (..\..\..\..\libraries\modules\io_mod.c)(0x65488A3E)(--c99 -c --cpu Cortex-M4 -g -O1 -Otime --apcs=interwork --split_sections -I ../Inc -I ..\..\..\..\chips\stm32f4xx\Driver\Inc -I ..\..\..\..\chips\stm32f4xx\Inc\Legacy -I ..\..\..\..\chips\stm32f4xx\CMSISDevice\Inc -I ..\..\..\..\arch\cortex-m\CMSIS\Include -I ..\..\..\..\libraries -I ..\..\..\..\tools -I ..\..\..\..\libraries\Protocols -I ..\..\..\..\libraries\Driver -I ..\..\..\..\libraries\Bus -I ..\..\Src -I ..\..\..\..\kernel\F4_UCOSII -I ..\..\..\..\kernel -I ..\..\hardware -I ..\..\..\..\libraries\modules -I ..\..\..\..\libraries\modules\itf -I ..\..\..\..\libraries\drivers -I ..\..\..\board_mod -I ..\..\..\..\chips\stm32f4xx\StdDriver\Inc --C99 --no-multibyte-chars-I.\RTE\_PowerCtl1002-ID:\keil\ARM\CMSIS\5.9.0\CMSIS\Core\Include-ID:\keil\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="538" -D_RTE_ -DSTM32F407xx -D_RTE_ -DUSE_HAL_DRIVER -DSTM32F407xx -DPLATFORM_UCOS2 -DVECT_TAB_OFFSET="0x10000"-o .\route\io_mod.o --omf_browse .\route\io_mod.crf --depend .\route\io_mod.d)
 I (..\..\..\..\libraries\modules\io_mod.h)(0x65488A3E)
-I (..\..\..\..\tools\macro.h)(0x65488A3E)
+I (..\..\..\..\tools\macro.h)(0x655778AA)
+I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (..\..\..\..\libraries\Bus\bus.h)(0x65488A3E)
 I (..\..\..\..\kernel\os_implement.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\ucos_ii.h)(0x65488A3E)
@@ -1878,7 +1918,6 @@ I (..\..\..\..\kernel\F4_UCOSII\cpu_cfg.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\os_cfg.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\os_cpu.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdio.h)(0x5E8E3CC2)
-I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\string.h)(0x5E8E3CC2)
 I (..\..\..\..\tools\tool.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdint.h)(0x5E8E3CC2)
@@ -1886,7 +1925,8 @@ I (..\..\Src\bus_cfg.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdlib.h)(0x5E8E3CC2)
 F (..\..\..\..\libraries\modules\itf\itf_01004000.c)(0x65488A3E)(--c99 -c --cpu Cortex-M4 -g -O1 -Otime --apcs=interwork --split_sections -I ../Inc -I ..\..\..\..\chips\stm32f4xx\Driver\Inc -I ..\..\..\..\chips\stm32f4xx\Inc\Legacy -I ..\..\..\..\chips\stm32f4xx\CMSISDevice\Inc -I ..\..\..\..\arch\cortex-m\CMSIS\Include -I ..\..\..\..\libraries -I ..\..\..\..\tools -I ..\..\..\..\libraries\Protocols -I ..\..\..\..\libraries\Driver -I ..\..\..\..\libraries\Bus -I ..\..\Src -I ..\..\..\..\kernel\F4_UCOSII -I ..\..\..\..\kernel -I ..\..\hardware -I ..\..\..\..\libraries\modules -I ..\..\..\..\libraries\modules\itf -I ..\..\..\..\libraries\drivers -I ..\..\..\board_mod -I ..\..\..\..\chips\stm32f4xx\StdDriver\Inc --C99 --no-multibyte-chars-I.\RTE\_PowerCtl1002-ID:\keil\ARM\CMSIS\5.9.0\CMSIS\Core\Include-ID:\keil\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="538" -D_RTE_ -DSTM32F407xx -D_RTE_ -DUSE_HAL_DRIVER -DSTM32F407xx -DPLATFORM_UCOS2 -DVECT_TAB_OFFSET="0x10000"-o .\route\itf_01004000.o --omf_browse .\route\itf_01004000.crf --depend .\route\itf_01004000.d)
 I (..\..\..\..\libraries\modules\itf\itf_01004000.h)(0x65488A3E)
-I (..\..\..\..\tools\macro.h)(0x65488A3E)
+I (..\..\..\..\tools\macro.h)(0x655778AA)
+I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (..\..\..\..\libraries\Bus\bus.h)(0x65488A3E)
 I (..\..\..\..\kernel\os_implement.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\ucos_ii.h)(0x65488A3E)
@@ -1897,7 +1937,6 @@ I (..\..\..\..\kernel\F4_UCOSII\cpu_cfg.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\os_cfg.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\os_cpu.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdio.h)(0x5E8E3CC2)
-I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\string.h)(0x5E8E3CC2)
 I (..\..\..\..\tools\tool.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdint.h)(0x5E8E3CC2)
@@ -1905,7 +1944,8 @@ I (..\..\Src\bus_cfg.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdlib.h)(0x5E8E3CC2)
 F (..\..\..\..\libraries\modules\itf\itf_00020000.c)(0x65488A3E)(--c99 -c --cpu Cortex-M4 -g -O1 -Otime --apcs=interwork --split_sections -I ../Inc -I ..\..\..\..\chips\stm32f4xx\Driver\Inc -I ..\..\..\..\chips\stm32f4xx\Inc\Legacy -I ..\..\..\..\chips\stm32f4xx\CMSISDevice\Inc -I ..\..\..\..\arch\cortex-m\CMSIS\Include -I ..\..\..\..\libraries -I ..\..\..\..\tools -I ..\..\..\..\libraries\Protocols -I ..\..\..\..\libraries\Driver -I ..\..\..\..\libraries\Bus -I ..\..\Src -I ..\..\..\..\kernel\F4_UCOSII -I ..\..\..\..\kernel -I ..\..\hardware -I ..\..\..\..\libraries\modules -I ..\..\..\..\libraries\modules\itf -I ..\..\..\..\libraries\drivers -I ..\..\..\board_mod -I ..\..\..\..\chips\stm32f4xx\StdDriver\Inc --C99 --no-multibyte-chars-I.\RTE\_PowerCtl1002-ID:\keil\ARM\CMSIS\5.9.0\CMSIS\Core\Include-ID:\keil\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="538" -D_RTE_ -DSTM32F407xx -D_RTE_ -DUSE_HAL_DRIVER -DSTM32F407xx -DPLATFORM_UCOS2 -DVECT_TAB_OFFSET="0x10000"-o .\route\itf_00020000.o --omf_browse .\route\itf_00020000.crf --depend .\route\itf_00020000.d)
 I (..\..\..\..\libraries\modules\itf\itf_00020000.h)(0x65488A3E)
-I (..\..\..\..\tools\macro.h)(0x65488A3E)
+I (..\..\..\..\tools\macro.h)(0x655778AA)
+I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (..\..\..\..\libraries\Bus\bus.h)(0x65488A3E)
 I (..\..\..\..\kernel\os_implement.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\ucos_ii.h)(0x65488A3E)
@@ -1916,7 +1956,6 @@ I (..\..\..\..\kernel\F4_UCOSII\cpu_cfg.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\os_cfg.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\os_cpu.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdio.h)(0x5E8E3CC2)
-I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\string.h)(0x5E8E3CC2)
 I (..\..\..\..\tools\tool.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdint.h)(0x5E8E3CC2)
@@ -1924,7 +1963,8 @@ I (..\..\Src\bus_cfg.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdlib.h)(0x5E8E3CC2)
 F (..\..\..\..\libraries\modules\itf\itf_00020010.c)(0x65488A3E)(--c99 -c --cpu Cortex-M4 -g -O1 -Otime --apcs=interwork --split_sections -I ../Inc -I ..\..\..\..\chips\stm32f4xx\Driver\Inc -I ..\..\..\..\chips\stm32f4xx\Inc\Legacy -I ..\..\..\..\chips\stm32f4xx\CMSISDevice\Inc -I ..\..\..\..\arch\cortex-m\CMSIS\Include -I ..\..\..\..\libraries -I ..\..\..\..\tools -I ..\..\..\..\libraries\Protocols -I ..\..\..\..\libraries\Driver -I ..\..\..\..\libraries\Bus -I ..\..\Src -I ..\..\..\..\kernel\F4_UCOSII -I ..\..\..\..\kernel -I ..\..\hardware -I ..\..\..\..\libraries\modules -I ..\..\..\..\libraries\modules\itf -I ..\..\..\..\libraries\drivers -I ..\..\..\board_mod -I ..\..\..\..\chips\stm32f4xx\StdDriver\Inc --C99 --no-multibyte-chars-I.\RTE\_PowerCtl1002-ID:\keil\ARM\CMSIS\5.9.0\CMSIS\Core\Include-ID:\keil\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="538" -D_RTE_ -DSTM32F407xx -D_RTE_ -DUSE_HAL_DRIVER -DSTM32F407xx -DPLATFORM_UCOS2 -DVECT_TAB_OFFSET="0x10000"-o .\route\itf_00020010.o --omf_browse .\route\itf_00020010.crf --depend .\route\itf_00020010.d)
 I (..\..\..\..\libraries\modules\itf\itf_00020010.h)(0x65488A3E)
-I (..\..\..\..\tools\macro.h)(0x65488A3E)
+I (..\..\..\..\tools\macro.h)(0x655778AA)
+I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (..\..\..\..\libraries\Bus\bus.h)(0x65488A3E)
 I (..\..\..\..\kernel\os_implement.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\ucos_ii.h)(0x65488A3E)
@@ -1935,7 +1975,6 @@ I (..\..\..\..\kernel\F4_UCOSII\cpu_cfg.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\os_cfg.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\os_cpu.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdio.h)(0x5E8E3CC2)
-I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\string.h)(0x5E8E3CC2)
 I (..\..\..\..\tools\tool.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdint.h)(0x5E8E3CC2)
@@ -1943,7 +1982,8 @@ I (..\..\Src\bus_cfg.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdlib.h)(0x5E8E3CC2)
 F (..\..\..\..\libraries\modules\itf\itf_00020030.c)(0x65488A3E)(--c99 -c --cpu Cortex-M4 -g -O1 -Otime --apcs=interwork --split_sections -I ../Inc -I ..\..\..\..\chips\stm32f4xx\Driver\Inc -I ..\..\..\..\chips\stm32f4xx\Inc\Legacy -I ..\..\..\..\chips\stm32f4xx\CMSISDevice\Inc -I ..\..\..\..\arch\cortex-m\CMSIS\Include -I ..\..\..\..\libraries -I ..\..\..\..\tools -I ..\..\..\..\libraries\Protocols -I ..\..\..\..\libraries\Driver -I ..\..\..\..\libraries\Bus -I ..\..\Src -I ..\..\..\..\kernel\F4_UCOSII -I ..\..\..\..\kernel -I ..\..\hardware -I ..\..\..\..\libraries\modules -I ..\..\..\..\libraries\modules\itf -I ..\..\..\..\libraries\drivers -I ..\..\..\board_mod -I ..\..\..\..\chips\stm32f4xx\StdDriver\Inc --C99 --no-multibyte-chars-I.\RTE\_PowerCtl1002-ID:\keil\ARM\CMSIS\5.9.0\CMSIS\Core\Include-ID:\keil\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="538" -D_RTE_ -DSTM32F407xx -D_RTE_ -DUSE_HAL_DRIVER -DSTM32F407xx -DPLATFORM_UCOS2 -DVECT_TAB_OFFSET="0x10000"-o .\route\itf_00020030.o --omf_browse .\route\itf_00020030.crf --depend .\route\itf_00020030.d)
 I (..\..\..\..\libraries\modules\itf\itf_00020030.h)(0x65488A3E)
-I (..\..\..\..\tools\macro.h)(0x65488A3E)
+I (..\..\..\..\tools\macro.h)(0x655778AA)
+I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (..\..\..\..\libraries\Bus\bus.h)(0x65488A3E)
 I (..\..\..\..\kernel\os_implement.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\ucos_ii.h)(0x65488A3E)
@@ -1954,13 +1994,12 @@ I (..\..\..\..\kernel\F4_UCOSII\cpu_cfg.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\os_cfg.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\os_cpu.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdio.h)(0x5E8E3CC2)
-I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\string.h)(0x5E8E3CC2)
 I (..\..\..\..\tools\tool.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdint.h)(0x5E8E3CC2)
 I (..\..\Src\bus_cfg.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdlib.h)(0x5E8E3CC2)
-F (..\..\..\..\libraries\modules\uart_transpond.c)(0x65488A3E)(--c99 -c --cpu Cortex-M4 -g -O1 -Otime --apcs=interwork --split_sections -I ../Inc -I ..\..\..\..\chips\stm32f4xx\Driver\Inc -I ..\..\..\..\chips\stm32f4xx\Inc\Legacy -I ..\..\..\..\chips\stm32f4xx\CMSISDevice\Inc -I ..\..\..\..\arch\cortex-m\CMSIS\Include -I ..\..\..\..\libraries -I ..\..\..\..\tools -I ..\..\..\..\libraries\Protocols -I ..\..\..\..\libraries\Driver -I ..\..\..\..\libraries\Bus -I ..\..\Src -I ..\..\..\..\kernel\F4_UCOSII -I ..\..\..\..\kernel -I ..\..\hardware -I ..\..\..\..\libraries\modules -I ..\..\..\..\libraries\modules\itf -I ..\..\..\..\libraries\drivers -I ..\..\..\board_mod -I ..\..\..\..\chips\stm32f4xx\StdDriver\Inc --C99 --no-multibyte-chars-I.\RTE\_PowerCtl1002-ID:\keil\ARM\CMSIS\5.9.0\CMSIS\Core\Include-ID:\keil\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="538" -D_RTE_ -DSTM32F407xx -D_RTE_ -DUSE_HAL_DRIVER -DSTM32F407xx -DPLATFORM_UCOS2 -DVECT_TAB_OFFSET="0x10000"-o .\route\uart_transpond.o --omf_browse .\route\uart_transpond.crf --depend .\route\uart_transpond.d)
+F (..\..\..\..\libraries\modules\uart_transpond.c)(0x65577367)(--c99 -c --cpu Cortex-M4 -g -O1 -Otime --apcs=interwork --split_sections -I ../Inc -I ..\..\..\..\chips\stm32f4xx\Driver\Inc -I ..\..\..\..\chips\stm32f4xx\Inc\Legacy -I ..\..\..\..\chips\stm32f4xx\CMSISDevice\Inc -I ..\..\..\..\arch\cortex-m\CMSIS\Include -I ..\..\..\..\libraries -I ..\..\..\..\tools -I ..\..\..\..\libraries\Protocols -I ..\..\..\..\libraries\Driver -I ..\..\..\..\libraries\Bus -I ..\..\Src -I ..\..\..\..\kernel\F4_UCOSII -I ..\..\..\..\kernel -I ..\..\hardware -I ..\..\..\..\libraries\modules -I ..\..\..\..\libraries\modules\itf -I ..\..\..\..\libraries\drivers -I ..\..\..\board_mod -I ..\..\..\..\chips\stm32f4xx\StdDriver\Inc --C99 --no-multibyte-chars-I.\RTE\_PowerCtl1002-ID:\keil\ARM\CMSIS\5.9.0\CMSIS\Core\Include-ID:\keil\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="538" -D_RTE_ -DSTM32F407xx -D_RTE_ -DUSE_HAL_DRIVER -DSTM32F407xx -DPLATFORM_UCOS2 -DVECT_TAB_OFFSET="0x10000"-o .\route\uart_transpond.o --omf_browse .\route\uart_transpond.crf --depend .\route\uart_transpond.d)
 I (..\..\..\..\libraries\modules\uart_transpond.h)(0x65488A3E)
 I (..\..\..\..\libraries\Bus\bus.h)(0x65488A3E)
 I (..\..\..\..\kernel\os_implement.h)(0x65488A3E)
@@ -1975,7 +2014,7 @@ I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdio.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\string.h)(0x5E8E3CC2)
 I (..\..\..\..\tools\tool.h)(0x65488A3E)
-I (..\..\..\..\tools\macro.h)(0x65488A3E)
+I (..\..\..\..\tools\macro.h)(0x655778AA)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdint.h)(0x5E8E3CC2)
 I (..\..\Src\bus_cfg.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdlib.h)(0x5E8E3CC2)
@@ -1994,13 +2033,14 @@ I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdio.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\string.h)(0x5E8E3CC2)
 I (..\..\..\..\tools\tool.h)(0x65488A3E)
-I (..\..\..\..\tools\macro.h)(0x65488A3E)
+I (..\..\..\..\tools\macro.h)(0x655778AA)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdint.h)(0x5E8E3CC2)
 I (..\..\Src\bus_cfg.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdlib.h)(0x5E8E3CC2)
 F (..\..\..\..\libraries\modules\itf\itf_00000040.c)(0x65488A3E)(--c99 -c --cpu Cortex-M4 -g -O1 -Otime --apcs=interwork --split_sections -I ../Inc -I ..\..\..\..\chips\stm32f4xx\Driver\Inc -I ..\..\..\..\chips\stm32f4xx\Inc\Legacy -I ..\..\..\..\chips\stm32f4xx\CMSISDevice\Inc -I ..\..\..\..\arch\cortex-m\CMSIS\Include -I ..\..\..\..\libraries -I ..\..\..\..\tools -I ..\..\..\..\libraries\Protocols -I ..\..\..\..\libraries\Driver -I ..\..\..\..\libraries\Bus -I ..\..\Src -I ..\..\..\..\kernel\F4_UCOSII -I ..\..\..\..\kernel -I ..\..\hardware -I ..\..\..\..\libraries\modules -I ..\..\..\..\libraries\modules\itf -I ..\..\..\..\libraries\drivers -I ..\..\..\board_mod -I ..\..\..\..\chips\stm32f4xx\StdDriver\Inc --C99 --no-multibyte-chars-I.\RTE\_PowerCtl1002-ID:\keil\ARM\CMSIS\5.9.0\CMSIS\Core\Include-ID:\keil\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="538" -D_RTE_ -DSTM32F407xx -D_RTE_ -DUSE_HAL_DRIVER -DSTM32F407xx -DPLATFORM_UCOS2 -DVECT_TAB_OFFSET="0x10000"-o .\route\itf_00000040.o --omf_browse .\route\itf_00000040.crf --depend .\route\itf_00000040.d)
 I (..\..\..\..\libraries\modules\itf\itf_00000040.h)(0x65488A3E)
-I (..\..\..\..\tools\macro.h)(0x65488A3E)
+I (..\..\..\..\tools\macro.h)(0x655778AA)
+I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (..\..\..\..\libraries\Bus\bus.h)(0x65488A3E)
 I (..\..\..\..\kernel\os_implement.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\ucos_ii.h)(0x65488A3E)
@@ -2011,7 +2051,6 @@ I (..\..\..\..\kernel\F4_UCOSII\cpu_cfg.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\os_cfg.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\os_cpu.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdio.h)(0x5E8E3CC2)
-I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\string.h)(0x5E8E3CC2)
 I (..\..\..\..\tools\tool.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdint.h)(0x5E8E3CC2)
@@ -2019,7 +2058,8 @@ I (..\..\Src\bus_cfg.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdlib.h)(0x5E8E3CC2)
 F (..\..\..\..\libraries\modules\itf\itf_00080010.c)(0x65488A3E)(--c99 -c --cpu Cortex-M4 -g -O1 -Otime --apcs=interwork --split_sections -I ../Inc -I ..\..\..\..\chips\stm32f4xx\Driver\Inc -I ..\..\..\..\chips\stm32f4xx\Inc\Legacy -I ..\..\..\..\chips\stm32f4xx\CMSISDevice\Inc -I ..\..\..\..\arch\cortex-m\CMSIS\Include -I ..\..\..\..\libraries -I ..\..\..\..\tools -I ..\..\..\..\libraries\Protocols -I ..\..\..\..\libraries\Driver -I ..\..\..\..\libraries\Bus -I ..\..\Src -I ..\..\..\..\kernel\F4_UCOSII -I ..\..\..\..\kernel -I ..\..\hardware -I ..\..\..\..\libraries\modules -I ..\..\..\..\libraries\modules\itf -I ..\..\..\..\libraries\drivers -I ..\..\..\board_mod -I ..\..\..\..\chips\stm32f4xx\StdDriver\Inc --C99 --no-multibyte-chars-I.\RTE\_PowerCtl1002-ID:\keil\ARM\CMSIS\5.9.0\CMSIS\Core\Include-ID:\keil\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="538" -D_RTE_ -DSTM32F407xx -D_RTE_ -DUSE_HAL_DRIVER -DSTM32F407xx -DPLATFORM_UCOS2 -DVECT_TAB_OFFSET="0x10000"-o .\route\itf_00080010.o --omf_browse .\route\itf_00080010.crf --depend .\route\itf_00080010.d)
 I (..\..\..\..\libraries\modules\itf\itf_00080010.h)(0x65488A3E)
-I (..\..\..\..\tools\macro.h)(0x65488A3E)
+I (..\..\..\..\tools\macro.h)(0x655778AA)
+I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (..\..\..\..\libraries\Bus\bus.h)(0x65488A3E)
 I (..\..\..\..\kernel\os_implement.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\ucos_ii.h)(0x65488A3E)
@@ -2030,7 +2070,6 @@ I (..\..\..\..\kernel\F4_UCOSII\cpu_cfg.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\os_cfg.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\os_cpu.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdio.h)(0x5E8E3CC2)
-I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\string.h)(0x5E8E3CC2)
 I (..\..\..\..\tools\tool.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdint.h)(0x5E8E3CC2)
@@ -2038,7 +2077,8 @@ I (..\..\Src\bus_cfg.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdlib.h)(0x5E8E3CC2)
 F (..\..\..\..\libraries\modules\itf\itf_00080011.c)(0x65488A3E)(--c99 -c --cpu Cortex-M4 -g -O1 -Otime --apcs=interwork --split_sections -I ../Inc -I ..\..\..\..\chips\stm32f4xx\Driver\Inc -I ..\..\..\..\chips\stm32f4xx\Inc\Legacy -I ..\..\..\..\chips\stm32f4xx\CMSISDevice\Inc -I ..\..\..\..\arch\cortex-m\CMSIS\Include -I ..\..\..\..\libraries -I ..\..\..\..\tools -I ..\..\..\..\libraries\Protocols -I ..\..\..\..\libraries\Driver -I ..\..\..\..\libraries\Bus -I ..\..\Src -I ..\..\..\..\kernel\F4_UCOSII -I ..\..\..\..\kernel -I ..\..\hardware -I ..\..\..\..\libraries\modules -I ..\..\..\..\libraries\modules\itf -I ..\..\..\..\libraries\drivers -I ..\..\..\board_mod -I ..\..\..\..\chips\stm32f4xx\StdDriver\Inc --C99 --no-multibyte-chars-I.\RTE\_PowerCtl1002-ID:\keil\ARM\CMSIS\5.9.0\CMSIS\Core\Include-ID:\keil\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="538" -D_RTE_ -DSTM32F407xx -D_RTE_ -DUSE_HAL_DRIVER -DSTM32F407xx -DPLATFORM_UCOS2 -DVECT_TAB_OFFSET="0x10000"-o .\route\itf_00080011.o --omf_browse .\route\itf_00080011.crf --depend .\route\itf_00080011.d)
 I (..\..\..\..\libraries\modules\itf\itf_00080011.h)(0x65488A3E)
-I (..\..\..\..\tools\macro.h)(0x65488A3E)
+I (..\..\..\..\tools\macro.h)(0x655778AA)
+I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (..\..\..\..\libraries\Bus\bus.h)(0x65488A3E)
 I (..\..\..\..\kernel\os_implement.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\ucos_ii.h)(0x65488A3E)
@@ -2049,7 +2089,6 @@ I (..\..\..\..\kernel\F4_UCOSII\cpu_cfg.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\os_cfg.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\os_cpu.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdio.h)(0x5E8E3CC2)
-I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\string.h)(0x5E8E3CC2)
 I (..\..\..\..\tools\tool.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdint.h)(0x5E8E3CC2)
@@ -2057,7 +2096,8 @@ I (..\..\Src\bus_cfg.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdlib.h)(0x5E8E3CC2)
 F (..\..\..\..\libraries\modules\itf\itf_00080012.c)(0x65488A3E)(--c99 -c --cpu Cortex-M4 -g -O1 -Otime --apcs=interwork --split_sections -I ../Inc -I ..\..\..\..\chips\stm32f4xx\Driver\Inc -I ..\..\..\..\chips\stm32f4xx\Inc\Legacy -I ..\..\..\..\chips\stm32f4xx\CMSISDevice\Inc -I ..\..\..\..\arch\cortex-m\CMSIS\Include -I ..\..\..\..\libraries -I ..\..\..\..\tools -I ..\..\..\..\libraries\Protocols -I ..\..\..\..\libraries\Driver -I ..\..\..\..\libraries\Bus -I ..\..\Src -I ..\..\..\..\kernel\F4_UCOSII -I ..\..\..\..\kernel -I ..\..\hardware -I ..\..\..\..\libraries\modules -I ..\..\..\..\libraries\modules\itf -I ..\..\..\..\libraries\drivers -I ..\..\..\board_mod -I ..\..\..\..\chips\stm32f4xx\StdDriver\Inc --C99 --no-multibyte-chars-I.\RTE\_PowerCtl1002-ID:\keil\ARM\CMSIS\5.9.0\CMSIS\Core\Include-ID:\keil\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="538" -D_RTE_ -DSTM32F407xx -D_RTE_ -DUSE_HAL_DRIVER -DSTM32F407xx -DPLATFORM_UCOS2 -DVECT_TAB_OFFSET="0x10000"-o .\route\itf_00080012.o --omf_browse .\route\itf_00080012.crf --depend .\route\itf_00080012.d)
 I (..\..\..\..\libraries\modules\itf\itf_00080012.h)(0x65488A3E)
-I (..\..\..\..\tools\macro.h)(0x65488A3E)
+I (..\..\..\..\tools\macro.h)(0x655778AA)
+I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (..\..\..\..\libraries\Bus\bus.h)(0x65488A3E)
 I (..\..\..\..\kernel\os_implement.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\ucos_ii.h)(0x65488A3E)
@@ -2068,7 +2108,6 @@ I (..\..\..\..\kernel\F4_UCOSII\cpu_cfg.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\os_cfg.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\os_cpu.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdio.h)(0x5E8E3CC2)
-I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\string.h)(0x5E8E3CC2)
 I (..\..\..\..\tools\tool.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdint.h)(0x5E8E3CC2)
@@ -2089,7 +2128,7 @@ I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdio.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\string.h)(0x5E8E3CC2)
 I (..\..\..\..\tools\tool.h)(0x65488A3E)
-I (..\..\..\..\tools\macro.h)(0x65488A3E)
+I (..\..\..\..\tools\macro.h)(0x655778AA)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdint.h)(0x5E8E3CC2)
 I (..\..\Src\bus_cfg.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdlib.h)(0x5E8E3CC2)
@@ -2108,13 +2147,14 @@ I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdio.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\string.h)(0x5E8E3CC2)
 I (..\..\..\..\tools\tool.h)(0x65488A3E)
-I (..\..\..\..\tools\macro.h)(0x65488A3E)
+I (..\..\..\..\tools\macro.h)(0x655778AA)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdint.h)(0x5E8E3CC2)
 I (..\..\Src\bus_cfg.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdlib.h)(0x5E8E3CC2)
 F (..\..\..\..\libraries\modules\itf\itf_00030000.c)(0x65488A3E)(--c99 -c --cpu Cortex-M4 -g -O1 -Otime --apcs=interwork --split_sections -I ../Inc -I ..\..\..\..\chips\stm32f4xx\Driver\Inc -I ..\..\..\..\chips\stm32f4xx\Inc\Legacy -I ..\..\..\..\chips\stm32f4xx\CMSISDevice\Inc -I ..\..\..\..\arch\cortex-m\CMSIS\Include -I ..\..\..\..\libraries -I ..\..\..\..\tools -I ..\..\..\..\libraries\Protocols -I ..\..\..\..\libraries\Driver -I ..\..\..\..\libraries\Bus -I ..\..\Src -I ..\..\..\..\kernel\F4_UCOSII -I ..\..\..\..\kernel -I ..\..\hardware -I ..\..\..\..\libraries\modules -I ..\..\..\..\libraries\modules\itf -I ..\..\..\..\libraries\drivers -I ..\..\..\board_mod -I ..\..\..\..\chips\stm32f4xx\StdDriver\Inc --C99 --no-multibyte-chars-I.\RTE\_PowerCtl1002-ID:\keil\ARM\CMSIS\5.9.0\CMSIS\Core\Include-ID:\keil\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="538" -D_RTE_ -DSTM32F407xx -D_RTE_ -DUSE_HAL_DRIVER -DSTM32F407xx -DPLATFORM_UCOS2 -DVECT_TAB_OFFSET="0x10000"-o .\route\itf_00030000.o --omf_browse .\route\itf_00030000.crf --depend .\route\itf_00030000.d)
 I (..\..\..\..\libraries\modules\itf\itf_00030000.h)(0x65488A3E)
-I (..\..\..\..\tools\macro.h)(0x65488A3E)
+I (..\..\..\..\tools\macro.h)(0x655778AA)
+I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (..\..\..\..\libraries\Bus\bus.h)(0x65488A3E)
 I (..\..\..\..\kernel\os_implement.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\ucos_ii.h)(0x65488A3E)
@@ -2125,7 +2165,6 @@ I (..\..\..\..\kernel\F4_UCOSII\cpu_cfg.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\os_cfg.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\os_cpu.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdio.h)(0x5E8E3CC2)
-I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\string.h)(0x5E8E3CC2)
 I (..\..\..\..\tools\tool.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdint.h)(0x5E8E3CC2)
@@ -2146,7 +2185,7 @@ I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdio.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\string.h)(0x5E8E3CC2)
 I (..\..\..\..\tools\tool.h)(0x65488A3E)
-I (..\..\..\..\tools\macro.h)(0x65488A3E)
+I (..\..\..\..\tools\macro.h)(0x655778AA)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdint.h)(0x5E8E3CC2)
 I (..\..\Src\bus_cfg.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdlib.h)(0x5E8E3CC2)
@@ -2165,7 +2204,7 @@ I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdio.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\string.h)(0x5E8E3CC2)
 I (..\..\..\..\tools\tool.h)(0x65488A3E)
-I (..\..\..\..\tools\macro.h)(0x65488A3E)
+I (..\..\..\..\tools\macro.h)(0x655778AA)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdint.h)(0x5E8E3CC2)
 I (..\..\Src\bus_cfg.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdlib.h)(0x5E8E3CC2)
@@ -2184,13 +2223,14 @@ I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdio.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\string.h)(0x5E8E3CC2)
 I (..\..\..\..\tools\tool.h)(0x65488A3E)
-I (..\..\..\..\tools\macro.h)(0x65488A3E)
+I (..\..\..\..\tools\macro.h)(0x655778AA)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdint.h)(0x5E8E3CC2)
 I (..\..\Src\bus_cfg.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdlib.h)(0x5E8E3CC2)
 F (..\..\..\..\libraries\modules\itf\itf_00020001.c)(0x65488A3E)(--c99 -c --cpu Cortex-M4 -g -O1 -Otime --apcs=interwork --split_sections -I ../Inc -I ..\..\..\..\chips\stm32f4xx\Driver\Inc -I ..\..\..\..\chips\stm32f4xx\Inc\Legacy -I ..\..\..\..\chips\stm32f4xx\CMSISDevice\Inc -I ..\..\..\..\arch\cortex-m\CMSIS\Include -I ..\..\..\..\libraries -I ..\..\..\..\tools -I ..\..\..\..\libraries\Protocols -I ..\..\..\..\libraries\Driver -I ..\..\..\..\libraries\Bus -I ..\..\Src -I ..\..\..\..\kernel\F4_UCOSII -I ..\..\..\..\kernel -I ..\..\hardware -I ..\..\..\..\libraries\modules -I ..\..\..\..\libraries\modules\itf -I ..\..\..\..\libraries\drivers -I ..\..\..\board_mod -I ..\..\..\..\chips\stm32f4xx\StdDriver\Inc --C99 --no-multibyte-chars-I.\RTE\_PowerCtl1002-ID:\keil\ARM\CMSIS\5.9.0\CMSIS\Core\Include-ID:\keil\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="538" -D_RTE_ -DSTM32F407xx -D_RTE_ -DUSE_HAL_DRIVER -DSTM32F407xx -DPLATFORM_UCOS2 -DVECT_TAB_OFFSET="0x10000"-o .\route\itf_00020001.o --omf_browse .\route\itf_00020001.crf --depend .\route\itf_00020001.d)
 I (..\..\..\..\libraries\modules\itf\itf_00020001.h)(0x65488A3E)
-I (..\..\..\..\tools\macro.h)(0x65488A3E)
+I (..\..\..\..\tools\macro.h)(0x655778AA)
+I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (..\..\..\..\libraries\Bus\bus.h)(0x65488A3E)
 I (..\..\..\..\kernel\os_implement.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\ucos_ii.h)(0x65488A3E)
@@ -2201,7 +2241,6 @@ I (..\..\..\..\kernel\F4_UCOSII\cpu_cfg.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\os_cfg.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\os_cpu.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdio.h)(0x5E8E3CC2)
-I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\string.h)(0x5E8E3CC2)
 I (..\..\..\..\tools\tool.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdint.h)(0x5E8E3CC2)
@@ -2209,7 +2248,8 @@ I (..\..\Src\bus_cfg.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdlib.h)(0x5E8E3CC2)
 F (..\..\..\..\libraries\modules\itf\itf_00030001.c)(0x65488A3E)(--c99 -c --cpu Cortex-M4 -g -O1 -Otime --apcs=interwork --split_sections -I ../Inc -I ..\..\..\..\chips\stm32f4xx\Driver\Inc -I ..\..\..\..\chips\stm32f4xx\Inc\Legacy -I ..\..\..\..\chips\stm32f4xx\CMSISDevice\Inc -I ..\..\..\..\arch\cortex-m\CMSIS\Include -I ..\..\..\..\libraries -I ..\..\..\..\tools -I ..\..\..\..\libraries\Protocols -I ..\..\..\..\libraries\Driver -I ..\..\..\..\libraries\Bus -I ..\..\Src -I ..\..\..\..\kernel\F4_UCOSII -I ..\..\..\..\kernel -I ..\..\hardware -I ..\..\..\..\libraries\modules -I ..\..\..\..\libraries\modules\itf -I ..\..\..\..\libraries\drivers -I ..\..\..\board_mod -I ..\..\..\..\chips\stm32f4xx\StdDriver\Inc --C99 --no-multibyte-chars-I.\RTE\_PowerCtl1002-ID:\keil\ARM\CMSIS\5.9.0\CMSIS\Core\Include-ID:\keil\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="538" -D_RTE_ -DSTM32F407xx -D_RTE_ -DUSE_HAL_DRIVER -DSTM32F407xx -DPLATFORM_UCOS2 -DVECT_TAB_OFFSET="0x10000"-o .\route\itf_00030001.o --omf_browse .\route\itf_00030001.crf --depend .\route\itf_00030001.d)
 I (..\..\..\..\libraries\modules\itf\itf_00030001.h)(0x65488A3E)
-I (..\..\..\..\tools\macro.h)(0x65488A3E)
+I (..\..\..\..\tools\macro.h)(0x655778AA)
+I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (..\..\..\..\libraries\Bus\bus.h)(0x65488A3E)
 I (..\..\..\..\kernel\os_implement.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\ucos_ii.h)(0x65488A3E)
@@ -2220,7 +2260,6 @@ I (..\..\..\..\kernel\F4_UCOSII\cpu_cfg.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\os_cfg.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\os_cpu.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdio.h)(0x5E8E3CC2)
-I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\string.h)(0x5E8E3CC2)
 I (..\..\..\..\tools\tool.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdint.h)(0x5E8E3CC2)
@@ -2228,7 +2267,8 @@ I (..\..\Src\bus_cfg.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdlib.h)(0x5E8E3CC2)
 F (..\..\..\..\libraries\modules\itf\itf_01000c60.c)(0x65488A3E)(--c99 -c --cpu Cortex-M4 -g -O1 -Otime --apcs=interwork --split_sections -I ../Inc -I ..\..\..\..\chips\stm32f4xx\Driver\Inc -I ..\..\..\..\chips\stm32f4xx\Inc\Legacy -I ..\..\..\..\chips\stm32f4xx\CMSISDevice\Inc -I ..\..\..\..\arch\cortex-m\CMSIS\Include -I ..\..\..\..\libraries -I ..\..\..\..\tools -I ..\..\..\..\libraries\Protocols -I ..\..\..\..\libraries\Driver -I ..\..\..\..\libraries\Bus -I ..\..\Src -I ..\..\..\..\kernel\F4_UCOSII -I ..\..\..\..\kernel -I ..\..\hardware -I ..\..\..\..\libraries\modules -I ..\..\..\..\libraries\modules\itf -I ..\..\..\..\libraries\drivers -I ..\..\..\board_mod -I ..\..\..\..\chips\stm32f4xx\StdDriver\Inc --C99 --no-multibyte-chars-I.\RTE\_PowerCtl1002-ID:\keil\ARM\CMSIS\5.9.0\CMSIS\Core\Include-ID:\keil\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="538" -D_RTE_ -DSTM32F407xx -D_RTE_ -DUSE_HAL_DRIVER -DSTM32F407xx -DPLATFORM_UCOS2 -DVECT_TAB_OFFSET="0x10000"-o .\route\itf_01000c60.o --omf_browse .\route\itf_01000c60.crf --depend .\route\itf_01000c60.d)
 I (..\..\..\..\libraries\modules\itf\itf_01000c60.h)(0x65488A3E)
-I (..\..\..\..\tools\macro.h)(0x65488A3E)
+I (..\..\..\..\tools\macro.h)(0x655778AA)
+I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (..\..\..\..\libraries\Bus\bus.h)(0x65488A3E)
 I (..\..\..\..\kernel\os_implement.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\ucos_ii.h)(0x65488A3E)
@@ -2239,7 +2279,6 @@ I (..\..\..\..\kernel\F4_UCOSII\cpu_cfg.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\os_cfg.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\os_cpu.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdio.h)(0x5E8E3CC2)
-I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\string.h)(0x5E8E3CC2)
 I (..\..\..\..\tools\tool.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdint.h)(0x5E8E3CC2)
@@ -2282,7 +2321,8 @@ I (..\..\..\..\chips\stm32f4xx\Driver\Inc\stm32f4xx_hal_tim.h)(0x65488A3E)
 I (..\..\..\..\chips\stm32f4xx\Driver\Inc\stm32f4xx_hal_tim_ex.h)(0x65488A3E)
 I (..\..\..\..\chips\stm32f4xx\Driver\Inc\stm32f4xx_hal_uart.h)(0x65488A3E)
 I (..\..\..\..\libraries\drivers\ws2812b.h)(0x65488A3E)
-I (..\..\..\..\tools\macro.h)(0x65488A3E)
+I (..\..\..\..\tools\macro.h)(0x655778AA)
+I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (..\..\..\..\tools\delayUs.h)(0x65488A3E)
 I (..\..\..\..\kernel\os_implement.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\ucos_ii.h)(0x65488A3E)
@@ -2339,7 +2379,7 @@ I (..\..\..\..\kernel\F4_UCOSII\os_cpu.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\string.h)(0x5E8E3CC2)
 I (..\..\..\..\tools\tool.h)(0x65488A3E)
-I (..\..\..\..\tools\macro.h)(0x65488A3E)
+I (..\..\..\..\tools\macro.h)(0x655778AA)
 I (..\..\Src\bus_cfg.h)(0x65488A3E)
 I (..\..\..\..\libraries\errCode.h)(0x65488A3E)
 I (..\..\..\..\tools\uart_byte_to_frame.h)(0x65488A3E)
@@ -2390,7 +2430,7 @@ I (..\..\..\..\kernel\F4_UCOSII\os_cpu.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\string.h)(0x5E8E3CC2)
 I (..\..\..\..\tools\tool.h)(0x65488A3E)
-I (..\..\..\..\tools\macro.h)(0x65488A3E)
+I (..\..\..\..\tools\macro.h)(0x655778AA)
 I (..\..\Src\bus_cfg.h)(0x65488A3E)
 I (..\..\..\..\tools\uart_byte_to_frame.h)(0x65488A3E)
 F (..\..\..\..\libraries\Bus\bus_can_f4_hal.c)(0x65488A3E)(--c99 -c --cpu Cortex-M4 -g -O1 -Otime --apcs=interwork --split_sections -I ../Inc -I ..\..\..\..\chips\stm32f4xx\Driver\Inc -I ..\..\..\..\chips\stm32f4xx\Inc\Legacy -I ..\..\..\..\chips\stm32f4xx\CMSISDevice\Inc -I ..\..\..\..\arch\cortex-m\CMSIS\Include -I ..\..\..\..\libraries -I ..\..\..\..\tools -I ..\..\..\..\libraries\Protocols -I ..\..\..\..\libraries\Driver -I ..\..\..\..\libraries\Bus -I ..\..\Src -I ..\..\..\..\kernel\F4_UCOSII -I ..\..\..\..\kernel -I ..\..\hardware -I ..\..\..\..\libraries\modules -I ..\..\..\..\libraries\modules\itf -I ..\..\..\..\libraries\drivers -I ..\..\..\board_mod -I ..\..\..\..\chips\stm32f4xx\StdDriver\Inc --C99 --no-multibyte-chars-I.\RTE\_PowerCtl1002-ID:\keil\ARM\CMSIS\5.9.0\CMSIS\Core\Include-ID:\keil\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="538" -D_RTE_ -DSTM32F407xx -D_RTE_ -DUSE_HAL_DRIVER -DSTM32F407xx -DPLATFORM_UCOS2 -DVECT_TAB_OFFSET="0x10000"-o .\route\bus_can_f4_hal.o --omf_browse .\route\bus_can_f4_hal.crf --depend .\route\bus_can_f4_hal.d)
@@ -2440,7 +2480,7 @@ I (..\..\..\..\kernel\F4_UCOSII\os_cpu.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\string.h)(0x5E8E3CC2)
 I (..\..\..\..\tools\tool.h)(0x65488A3E)
-I (..\..\..\..\tools\macro.h)(0x65488A3E)
+I (..\..\..\..\tools\macro.h)(0x655778AA)
 I (..\..\Src\bus_cfg.h)(0x65488A3E)
 I (..\..\..\..\libraries\Bus\CanDriver.h)(0x65488A3E)
 F (..\..\..\..\libraries\Bus\CanDriverPB9.lib)(0x65488A3E)()
@@ -2535,7 +2575,7 @@ I (..\..\..\..\kernel\F4_UCOSII\os_cpu.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\string.h)(0x5E8E3CC2)
 I (..\..\..\..\tools\tool.h)(0x65488A3E)
-I (..\..\..\..\tools\macro.h)(0x65488A3E)
+I (..\..\..\..\tools\macro.h)(0x655778AA)
 I (..\..\Src\bus_cfg.h)(0x65488A3E)
 I (..\..\..\..\libraries\errCode.h)(0x65488A3E)
 I (..\..\..\..\tools\uart_byte_to_frame.h)(0x65488A3E)
@@ -2652,7 +2692,7 @@ I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdio.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\string.h)(0x5E8E3CC2)
 I (..\..\..\..\tools\tool.h)(0x65488A3E)
-I (..\..\..\..\tools\macro.h)(0x65488A3E)
+I (..\..\..\..\tools\macro.h)(0x655778AA)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdint.h)(0x5E8E3CC2)
 I (..\..\Src\bus_cfg.h)(0x65488A3E)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdlib.h)(0x5E8E3CC2)
@@ -2673,7 +2713,7 @@ I (..\..\..\..\kernel\F4_UCOSII\os_cfg.h)(0x65488A3E)
 I (..\..\..\..\kernel\F4_UCOSII\os_cpu.h)(0x65488A3E)
 F (..\..\..\..\tools\tool.c)(0x65488A3E)(--c99 -c --cpu Cortex-M4 -g -O1 -Otime --apcs=interwork --split_sections -I ../Inc -I ..\..\..\..\chips\stm32f4xx\Driver\Inc -I ..\..\..\..\chips\stm32f4xx\Inc\Legacy -I ..\..\..\..\chips\stm32f4xx\CMSISDevice\Inc -I ..\..\..\..\arch\cortex-m\CMSIS\Include -I ..\..\..\..\libraries -I ..\..\..\..\tools -I ..\..\..\..\libraries\Protocols -I ..\..\..\..\libraries\Driver -I ..\..\..\..\libraries\Bus -I ..\..\Src -I ..\..\..\..\kernel\F4_UCOSII -I ..\..\..\..\kernel -I ..\..\hardware -I ..\..\..\..\libraries\modules -I ..\..\..\..\libraries\modules\itf -I ..\..\..\..\libraries\drivers -I ..\..\..\board_mod -I ..\..\..\..\chips\stm32f4xx\StdDriver\Inc --C99 --no-multibyte-chars-I.\RTE\_PowerCtl1002-ID:\keil\ARM\CMSIS\5.9.0\CMSIS\Core\Include-ID:\keil\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="538" -D_RTE_ -DSTM32F407xx -D_RTE_ -DUSE_HAL_DRIVER -DSTM32F407xx -DPLATFORM_UCOS2 -DVECT_TAB_OFFSET="0x10000"-o .\route\tool.o --omf_browse .\route\tool.crf --depend .\route\tool.d)
 I (..\..\..\..\tools\tool.h)(0x65488A3E)
-I (..\..\..\..\tools\macro.h)(0x65488A3E)
+I (..\..\..\..\tools\macro.h)(0x655778AA)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\stdint.h)(0x5E8E3CC2)
 I (D:\keil\ARM\ARM_Compiler_5.06u7\include\string.h)(0x5E8E3CC2)

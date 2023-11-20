@@ -37,6 +37,7 @@
 .\route\ws2812b.o: ..\..\..\..\chips\stm32f4xx\Driver\Inc\stm32f4xx_hal_uart.h
 .\route\ws2812b.o: ..\..\..\..\libraries\drivers\ws2812b.h
 .\route\ws2812b.o: ..\..\..\..\tools\macro.h
+.\route\ws2812b.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdbool.h
 .\route\ws2812b.o: ..\..\..\..\tools\delayUs.h
 .\route\ws2812b.o: ..\..\..\..\kernel\os_implement.h
 .\route\ws2812b.o: ..\..\..\..\kernel\F4_UCOSII\ucos_ii.h

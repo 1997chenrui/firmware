@@ -1,6 +1,7 @@
 .\route\io_thread.o: ..\..\..\board_mod\io_thread.c
 .\route\io_thread.o: ..\..\..\..\libraries\modules\io_mod.h
 .\route\io_thread.o: ..\..\..\..\tools\macro.h
+.\route\io_thread.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdbool.h
 .\route\io_thread.o: ..\..\..\..\libraries\modules\itf\itf_00020000.h
 .\route\io_thread.o: ..\..\..\..\libraries\Bus\bus.h
 .\route\io_thread.o: ..\..\..\..\kernel\os_implement.h
@@ -12,7 +13,6 @@
 .\route\io_thread.o: ..\..\..\..\kernel\F4_UCOSII\os_cfg.h
 .\route\io_thread.o: ..\..\..\..\kernel\F4_UCOSII\os_cpu.h
 .\route\io_thread.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdio.h
-.\route\io_thread.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdbool.h
 .\route\io_thread.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\string.h
 .\route\io_thread.o: ..\..\..\..\tools\tool.h
 .\route\io_thread.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h

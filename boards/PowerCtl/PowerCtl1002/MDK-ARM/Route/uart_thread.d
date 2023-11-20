@@ -1,6 +1,7 @@
 .\route\uart_thread.o: ..\..\Src\uart_thread.c
 .\route\uart_thread.o: ..\..\Src\uart_thread.h
 .\route\uart_thread.o: ..\..\..\..\tools\macro.h
+.\route\uart_thread.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdbool.h
 .\route\uart_thread.o: ..\..\..\..\libraries\Bus\bus.h
 .\route\uart_thread.o: ..\..\..\..\kernel\os_implement.h
 .\route\uart_thread.o: ..\..\..\..\kernel\F4_UCOSII\ucos_ii.h
@@ -11,7 +12,6 @@
 .\route\uart_thread.o: ..\..\..\..\kernel\F4_UCOSII\os_cfg.h
 .\route\uart_thread.o: ..\..\..\..\kernel\F4_UCOSII\os_cpu.h
 .\route\uart_thread.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdio.h
-.\route\uart_thread.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdbool.h
 .\route\uart_thread.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\string.h
 .\route\uart_thread.o: ..\..\..\..\tools\tool.h
 .\route\uart_thread.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h

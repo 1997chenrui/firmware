@@ -1,6 +1,7 @@
 .\route\itf_00080011.o: ..\..\..\..\libraries\modules\itf\itf_00080011.c
 .\route\itf_00080011.o: ..\..\..\..\libraries\modules\itf\itf_00080011.h
 .\route\itf_00080011.o: ..\..\..\..\tools\macro.h
+.\route\itf_00080011.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdbool.h
 .\route\itf_00080011.o: ..\..\..\..\libraries\Bus\bus.h
 .\route\itf_00080011.o: ..\..\..\..\kernel\os_implement.h
 .\route\itf_00080011.o: ..\..\..\..\kernel\F4_UCOSII\ucos_ii.h
@@ -11,7 +12,6 @@
 .\route\itf_00080011.o: ..\..\..\..\kernel\F4_UCOSII\os_cfg.h
 .\route\itf_00080011.o: ..\..\..\..\kernel\F4_UCOSII\os_cpu.h
 .\route\itf_00080011.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdio.h
-.\route\itf_00080011.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdbool.h
 .\route\itf_00080011.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\string.h
 .\route\itf_00080011.o: ..\..\..\..\tools\tool.h
 .\route\itf_00080011.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h

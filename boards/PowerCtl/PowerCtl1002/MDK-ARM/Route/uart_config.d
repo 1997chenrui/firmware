@@ -1,8 +1,5 @@
 .\route\uart_config.o: ..\Src\uart_config.c
 .\route\uart_config.o: ../Inc/uart_config.h
-.\route\uart_config.o: ..\..\..\..\tools\macro.h
-.\route\uart_config.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdbool.h
-.\route\uart_config.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\string.h
 .\route\uart_config.o: ..\..\..\..\chips\stm32f4xx\Driver\Inc\stm32f4xx_hal.h
 .\route\uart_config.o: ../Inc/stm32f4xx_hal_conf.h
 .\route\uart_config.o: ../Inc/mxconstants.h
@@ -37,4 +34,15 @@
 .\route\uart_config.o: ..\..\..\..\chips\stm32f4xx\Driver\Inc\stm32f4xx_hal_tim.h
 .\route\uart_config.o: ..\..\..\..\chips\stm32f4xx\Driver\Inc\stm32f4xx_hal_tim_ex.h
 .\route\uart_config.o: ..\..\..\..\chips\stm32f4xx\Driver\Inc\stm32f4xx_hal_uart.h
+.\route\uart_config.o: ..\..\..\..\tools\macro.h
+.\route\uart_config.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdbool.h
+.\route\uart_config.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\string.h
 .\route\uart_config.o: D:\keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdlib.h
+.\route\uart_config.o: ..\..\..\..\tools\async.h
+.\route\uart_config.o: ..\..\..\..\kernel\F4_UCOSII\ucos_ii.h
+.\route\uart_config.o: ..\..\..\..\kernel\F4_UCOSII\app_cfg.h
+.\route\uart_config.o: ..\..\..\..\kernel\F4_UCOSII\cpu.h
+.\route\uart_config.o: ..\..\..\..\kernel\F4_UCOSII\cpu_def.h
+.\route\uart_config.o: ..\..\..\..\kernel\F4_UCOSII\cpu_cfg.h
+.\route\uart_config.o: ..\..\..\..\kernel\F4_UCOSII\os_cfg.h
+.\route\uart_config.o: ..\..\..\..\kernel\F4_UCOSII\os_cpu.h

@@ -1,0 +1,23 @@
+--cpu Cortex-M3
+"mod_output\startup_stm32f103xe.o"
+"mod_output\main.o"
+"mod_output\stm32f1xx_it.o"
+"mod_output\stm32f1xx_hal_msp.o"
+"mod_output\stm32f1xx_hal_gpio_ex.o"
+"mod_output\stm32f1xx_hal_tim.o"
+"mod_output\stm32f1xx_hal_tim_ex.o"
+"mod_output\stm32f1xx_hal.o"
+"mod_output\stm32f1xx_hal_rcc.o"
+"mod_output\stm32f1xx_hal_rcc_ex.o"
+"mod_output\stm32f1xx_hal_gpio.o"
+"mod_output\stm32f1xx_hal_dma.o"
+"mod_output\stm32f1xx_hal_cortex.o"
+"mod_output\stm32f1xx_hal_pwr.o"
+"mod_output\stm32f1xx_hal_flash.o"
+"mod_output\stm32f1xx_hal_flash_ex.o"
+"mod_output\stm32f1xx_hal_exti.o"
+"mod_output\system_stm32f1xx.o"
+--strict --scatter "mod_output\mod_output.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "mod_output.map" -o mod_output\mod_output.axf

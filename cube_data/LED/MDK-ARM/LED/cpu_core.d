@@ -1,0 +1,11 @@
+led\cpu_core.o: ..\UCOSIII\uC-CPU\cpu_core.c
+led\cpu_core.o: ..\UCOSIII\uC-CPU\cpu_core.h
+led\cpu_core.o: ..\UCOSIII\uC-CPU\ARM-Cortex-M3\RealView\cpu.h
+led\cpu_core.o: ..\UCOSIII\uC-CPU\cpu_def.h
+led\cpu_core.o: ..\Core\Src\OS\cpu_cfg.h
+led\cpu_core.o: ..\UCOSIII\uC-LIB\lib_def.h
+led\cpu_core.o: ..\UCOSIII\uC-LIB\lib_mem.h
+led\cpu_core.o: ..\UCOSIII\uC-CPU\cpu_core.h
+led\cpu_core.o: ..\Core\Src\OS\lib_cfg.h
+led\cpu_core.o: ..\UCOSIII\uC-LIB\lib_str.h
+led\cpu_core.o: ..\UCOSIII\uC-LIB\lib_ascii.h
